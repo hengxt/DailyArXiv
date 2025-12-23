@@ -21,12 +21,15 @@ current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
 
 
 keywords = [
-    "Array",         # 阵列的DOA估计
-    "Speech Acoustic",      # 语音的DOA估计
+    "MUSIC Array",      # 阵列MUSIC算法的DOA估计
+    "SBL Array",      # 阵列SBL算法的DOA估计
+    "Subspace Array",      # 阵列子空间算法的DOA估计
+    "Speech",      # 语音的DOA估计
+    "Acoustic",      # 声学信号的DOA估计
     "Broadband" # 宽带信号的DOA估计
 ]
 
-max_result = 30
+max_result = 20
 issues_result = 8
 
 column_names = ["Title", "Link", "Abstract", "Date", "Comment"]
