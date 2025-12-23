@@ -4,6 +4,7 @@ on:
   label:
     types:
       - created # for test
+  workflow_dispatch:
   schedule:
       - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
 
@@ -38,8 +39,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: hengxt
+        email: hengxt577@163.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
