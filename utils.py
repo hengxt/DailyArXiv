@@ -14,10 +14,19 @@ def remove_duplicated_spaces(text: str) -> str:
     return " ".join(text.split())
 
 def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[str, str]]:
-    # 使用 all: 进行全字段搜索，不加引号以允许模糊匹配
-    query = "all:{0}".format(keyword)
+    # 【核心修改1】构建查询语句
+    # 1. 给关键词加上双引号，强制进行“短语匹配”。
+    #    例如搜索 "DOA estimation"，不会匹配到 "DOA... parameter estimation" (中间隔很远的情况)
+    # 2. 限制在 Title (ti) 和 Abstract (abs) 中搜索，不再使用 all (全文)
+    
+    # 构造形式：(ti:"keyword" OR abs:"keyword")
+    # quote_plus 会处理空格和特殊字符
+    phrase = f'"{keyword}"'
+    query = f'(ti:{phrase} OR abs:{phrase})'
+    
     search_query = urllib.parse.quote(query)
     
+    # 按最后更新时间排序
     url = "http://export.arxiv.org/api/query?search_query={0}&max_results={1}&sortBy=lastUpdatedDate&sortOrder=descending".format(search_query, max_results)
     
     try:
@@ -43,39 +52,56 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[st
         papers.append(paper)
     return papers
 
-def filter_tags(papers: List[Dict[str, str]], target_fields: List[str] = None) -> List[Dict[str, str]]:
-    # 扩展领域：eess(电气工程), physics(物理/声学), math(数学), cs(计算机)
-    if target_fields is None:
-        target_fields = ["cs", "stat", "eess", "physics", "math"]
-        
+def filter_tags(papers: List[Dict[str, str]]) -> List[Dict[str, str]]:
+    # 【核心修改2】严格的白名单机制
+    # eess.SP: Signal Processing (最核心)
+    # eess.AS: Audio and Speech Processing (核心)
+    # cs.SD: Sound (核心)
+    # cs.IT: Information Theory (部分相关)
+    # cs.LG: Machine Learning (仅当内容确实相关时，由关键词保证)
+    # 移除了: stat (统计学，避免医学统计), physics (避免量子/纯物理), math (太宽泛)
+    
+    target_fields = ["eess.SP", "eess.AS", "cs.SD", "cs.IT", "cs.LG", "eess.IV"]
+    
     results = []
     for paper in papers:
         tags = paper.Tags
+        is_target = False
         for tag in tags:
-            if tag.split(".")[0] in target_fields:
-                results.append(paper)
+            # 检查 tag 是否在白名单中 (只要命中一个即可)
+            # 比如 tag 是 "eess.SP"，它在 target_fields 里
+            if tag in target_fields:
+                is_target = True
                 break
+            # 或者是 target_fields 的子集（兼容性处理）
+            for target in target_fields:
+                if tag.startswith(target):
+                    is_target = True
+                    break
+            if is_target: break
+            
+        if is_target:
+            results.append(paper)
     return results
 
 def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, retries: int = 3) -> List[Dict[str, str]]:
     for i in range(retries):
         papers = get_daily_papers_by_keyword(keyword, column_names, max_result)
-        # 如果获取到数据，或者确实没有数据(空列表也是有效结果)，都返回
         if papers is not None: 
             return papers
         else:
             print(f"Retry {i+1} for {keyword}...")
-            time.sleep(10)
-    return None
+            time.sleep(5)
+    return []
 
 def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int) -> List[Dict[str, str]]:
     papers = request_paper_with_arXiv_api(keyword, max_result)
     if not papers:
-        return [] # 返回空列表而不是 None
+        return [] 
         
+    # 执行严格的学科过滤
     papers = filter_tags(papers)
     
-    # 格式化输出列
     final_papers = []
     for paper in papers:
         new_paper = {}
