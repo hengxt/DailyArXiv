@@ -14,15 +14,31 @@ def remove_duplicated_spaces(text: str) -> str:
     return " ".join(text.split())
 
 def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[str, str]]:
-    # 【核心修改1】构建查询语句
-    # 1. 给关键词加上双引号，强制进行“短语匹配”。
-    #    例如搜索 "DOA estimation"，不会匹配到 "DOA... parameter estimation" (中间隔很远的情况)
-    # 2. 限制在 Title (ti) 和 Abstract (abs) 中搜索，不再使用 all (全文)
+    # 【严格化】强制要求包含DOA相关内容
+    # 1. 所有搜索结果必须包含DOA或Direction of Arrival
+    # 2. 结合用户提供的关键词进行搜索
+    # 3. 仍然限制在 Title (ti) 和 Abstract (abs) 中搜索
     
-    # 构造形式：(ti:"keyword" OR abs:"keyword")
-    # quote_plus 会处理空格和特殊字符
-    phrase = f'"{keyword}"'
-    query = f'(ti:{phrase} OR abs:{phrase})'
+    # 强制包含DOA相关内容的条件
+    doa_conditions = '(ti:DOA OR abs:DOA OR ti:"Direction of Arrival" OR abs:"Direction of Arrival")'
+    
+    # 将关键词拆分为单词，构建更灵活的查询
+    words = keyword.split()
+    if len(words) > 1:
+        # 对于多词关键词，构建多种匹配方式的组合
+        # 1. 精确短语匹配
+        exact_phrase = f'"{keyword}"'
+        # 2. 所有词必须出现（顺序不限）
+        all_words = ' AND '.join(words)
+        
+        # 组合多种匹配方式，并且必须包含DOA相关内容
+        keyword_query = f'((ti:{exact_phrase} OR abs:{exact_phrase}) OR (ti:({all_words}) OR abs:({all_words})))'
+    else:
+        # 对于单词关键词，直接搜索
+        keyword_query = f'(ti:{keyword} OR abs:{keyword})'
+    
+    # 最终查询：关键词条件 AND DOA条件
+    query = f'{keyword_query} AND {doa_conditions}'
     
     search_query = urllib.parse.quote(query)
     
@@ -53,15 +69,11 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[st
     return papers
 
 def filter_tags(papers: List[Dict[str, str]]) -> List[Dict[str, str]]:
-    # 【核心修改2】严格的白名单机制
     # eess.SP: Signal Processing (最核心)
     # eess.AS: Audio and Speech Processing (核心)
     # cs.SD: Sound (核心)
-    # cs.IT: Information Theory (部分相关)
-    # cs.LG: Machine Learning (仅当内容确实相关时，由关键词保证)
-    # 移除了: stat (统计学，避免医学统计), physics (避免量子/纯物理), math (太宽泛)
     
-    target_fields = ["eess.SP", "eess.AS", "cs.SD", "cs.IT", "cs.LG", "eess.IV"]
+    target_fields = ["eess.SP", "eess.AS", "cs.SD"]
     
     results = []
     for paper in papers:
