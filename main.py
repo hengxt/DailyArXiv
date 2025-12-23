@@ -8,7 +8,6 @@ from utils import get_daily_papers_by_keyword_with_retries, generate_table, back
 
 beijing_timezone = pytz.timezone('Asia/Shanghai')
 
-# 获取当前日期
 current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
 
 # 检查是否已更新
@@ -20,11 +19,14 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
     #     sys.exit("Already updated today!")
 
-# 精简后的关键词：阵列DOA、声音DOA、宽带DOA
+# 【核心修改】：使用更具体的短语，避免单个词的歧义
+# 这里的关键词将被送入 utils 中的构建函数，搜索标题和摘要
 keywords = [
-    "Array DOA estimation",     # 阵列DOA
-    "Sound DOA estimation",     # 声音DOA (也覆盖 Sound Source Localization)
-    "Broadband DOA estimation"  # 宽带DOA
+    "Direction of Arrival",         # 最精准，绝无歧义
+    "DOA estimation",               # 强制 "DOA" 和 "estimation" 连用，排除医学 DOA
+    "Source Localization Array",    # 阵列源定位
+    "Beamforming DOA",              # 波束形成 DOA
+    "Broadband DOA"                 # 宽带 DOA
 ]
 
 max_result = 100 
@@ -37,31 +39,36 @@ back_up_files()
 # 更新 README.md
 f_rm = open("README.md", "w")
 f_rm.write("# Daily Papers - DoA Estimation\n")
-f_rm.write("Automatically fetches the latest arXiv papers on DoA estimation.\n\n")
+f_rm.write("Automatically fetches the latest arXiv papers on Direction of Arrival (DoA) estimation and Array Signal Processing.\n")
+f_rm.write("Strictly filtered for Signal Processing (eess.SP, eess.AS) and Audio (cs.SD) fields.\n\n")
 f_rm.write("Last update: {0}\n\n".format(current_date))
 
 # 更新 ISSUE_TEMPLATE.md
 f_is = open(".github/ISSUE_TEMPLATE.md", "w")
 f_is.write("---\n")
 f_is.write("title: Latest DoA Papers - {0}\n".format(get_daily_date()))
-f_is.write("labels: signal-processing, doa\n")
+f_is.write("labels: signal-processing, doa, array-processing\n")
 f_is.write("---\n")
 f_is.write("**Latest papers on DoA estimation**\n\n")
 
 for keyword in keywords:
-    f_rm.write("## {0}\n".format(keyword))
-    f_is.write("## {0}\n".format(keyword))
+    # 标题美化：去掉引号等符号
+    display_keyword = keyword.replace('"', '').replace('+', ' ')
+    f_rm.write("## {0}\n".format(display_keyword))
+    f_is.write("## {0}\n".format(display_keyword))
     
-    # 获取论文 (移除 link 参数，底层改为 all 搜索)
     papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result)
     
     if papers is None:
         print(f"Failed to get papers for {keyword}!")
-        f_rm.close()
-        f_is.close()
-        restore_files()
-        sys.exit("Failed to get papers!")
-        
+        # 即使某个关键词失败，也不要直接退出，继续下一个
+        continue
+    
+    if len(papers) == 0:
+        f_rm.write("No new papers found.\n\n")
+        f_is.write("No new papers found.\n\n")
+        continue
+
     rm_table = generate_table(papers)
     is_table = generate_table(papers[:issues_result], ignore_keys=["Abstract"])
     
