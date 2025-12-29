@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - December 29, 2025
+title: Latest DoA Papers - December 30, 2025
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,6 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
 | **[A Study of Binaural Deep Beamforming With Interpretable Beampatterns Guided by Time-Varying RTF](https://arxiv.org/abs/2511.10168v1)** | 2025-11-13 | 5 pages, 6 figures |
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
 | **[Consensus Tracking of an Underwater Vehicle Using Weighted Harmonic Mean Density](https://arxiv.org/abs/2511.03130v1)** | 2025-11-05 |  |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[A Unified Framework for Direction and Diffuseness Estimation Using Tight-Frame Microphone Arrays](https://arxiv.org/abs/2510.22183v2)** | 2025-10-28 | <details><summary>36 pa...</summary><p>36 pages including 14 files</p></details> |
 | **[Perceptual Compensation of Ambisonics Recordings for Reproduction in Room](https://arxiv.org/abs/2510.10883v1)** | 2025-10-13 | <details><summary>The m...</summary><p>The manuscript was submitted to the JASA and is under review</p></details> |
 | **[OWL: Geometry-Aware Spatial Reasoning for Audio Large Language Models](https://arxiv.org/abs/2509.26140v1)** | 2025-09-30 |  |
-| **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v1)** | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, submitted to ICASSP 2026</p></details> |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
