@@ -26,7 +26,8 @@ keywords = [
     "Subspace Array",      # 阵列子空间算法的DOA估计
     "Speech",      # 语音的DOA估计
     "Acoustic",      # 声学信号的DOA估计
-    "Broadband" # 宽带信号的DOA估计
+    "Broadband", # 宽带信号的DOA估计
+    "" # 其他的DOA估计
 ]
 
 max_result = 20
