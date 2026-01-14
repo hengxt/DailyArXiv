@@ -70,3 +70,6 @@ labels: signal-processing, doa, array-processing
 | **[Wideband Modal Orthogonality: A New Approach for Broadband DOA Estimation](https://arxiv.org/abs/2006.07261v1)** | 2020-06-12 |  |
 | **[Broadband Sparse Array Focusing Via Spatial Periodogram Averaging and Correlation Resampling](https://arxiv.org/abs/1912.11526v1)** | 2019-12-24 | 11 pages, 8 figures |
 
+## 
+No new papers found.
+
