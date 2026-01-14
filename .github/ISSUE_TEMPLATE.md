@@ -70,6 +70,15 @@ labels: signal-processing, doa, array-processing
 | **[Wideband Modal Orthogonality: A New Approach for Broadband DOA Estimation](https://arxiv.org/abs/2006.07261v1)** | 2020-06-12 |  |
 | **[Broadband Sparse Array Focusing Via Spatial Periodogram Averaging and Correlation Resampling](https://arxiv.org/abs/1912.11526v1)** | 2019-12-24 | 11 pages, 8 figures |
 
-## 
-No new papers found.
+## DOA
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Directional Selective Fixed-Filter Active Noise Control Based on a Convolutional Neural Network in Reverberant Environments](https://arxiv.org/abs/2601.06981v1)** | 2026-01-11 |  |
+| **[TransDOA: Calibrating Array Imperfections via Transformer-based Transfer Learning](https://arxiv.org/abs/2504.13394v5)** | 2026-01-09 |  |
+| **[Sensing for Free: Learn to Localize More Sources than Antennas without Pilots](https://arxiv.org/abs/2506.23525v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 1 table. This paper was accepted by the IEEE Journal on Selected Areas in Communications (JSAC) on Jan. 5, 2026</p></details> |
+| **[The ECME Algorithm Using Factor Analysis for DOA Estimation in Nonuniform Noise](https://arxiv.org/abs/2508.02223v3)** | 2026-01-03 |  |
+| **[Compressive Toeplitz Covariance Estimation From Few-Bit Quantized Measurements With Applications to DOA Estimation](https://arxiv.org/abs/2512.22527v1)** | 2025-12-27 |  |
+| **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
+| **[Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions](https://arxiv.org/abs/2512.20165v1)** | 2025-12-23 |  |
+| **[An Fluid Antenna Array-Enabled DOA Estimation Method: End-Fire Effect Suppression](https://arxiv.org/abs/2512.18981v1)** | 2025-12-22 |  |
 
