@@ -2,7 +2,7 @@
 Automatically fetches the latest arXiv papers on Direction of Arrival (DoA) estimation and Array Signal Processing.
 Strictly filtered for Signal Processing (eess.SP, eess.AS) and Audio (cs.SD) fields.
 
-Last update: 2026-01-20
+Last update: 2026-01-21
 
 ## MUSIC Array
 | **Title** | **Date** | **Abstract** | **Comment** |
