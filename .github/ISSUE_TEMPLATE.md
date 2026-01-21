@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - January 21, 2026
+title: Latest DoA Papers - January 22, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,6 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v2)** | 2026-01-19 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
 | **[A Study of Binaural Deep Beamforming With Interpretable Beampatterns Guided by Time-Varying RTF](https://arxiv.org/abs/2511.10168v1)** | 2025-11-13 | 5 pages, 6 figures |
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[State Space and Self-Attention Collaborative Network with Feature Aggregation for DOA Estimation](https://arxiv.org/abs/2510.25193v1)** | 2025-10-29 |  |
 | **[A Unified Framework for Direction and Diffuseness Estimation Using Tight-Frame Microphone Arrays](https://arxiv.org/abs/2510.22183v2)** | 2025-10-28 | <details><summary>36 pa...</summary><p>36 pages including 14 files</p></details> |
 | **[Perceptual Compensation of Ambisonics Recordings for Reproduction in Room](https://arxiv.org/abs/2510.10883v1)** | 2025-10-13 | <details><summary>The m...</summary><p>The manuscript was submitted to the JASA and is under review</p></details> |
-| **[OWL: Geometry-Aware Spatial Reasoning for Audio Large Language Models](https://arxiv.org/abs/2509.26140v1)** | 2025-09-30 |  |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Direction-of-Arrival and Noise Covariance Matrix joint estimation for beamforming](https://arxiv.org/abs/2511.10639v4)** | 2026-01-20 |  |
+| **[6G OFDM Communications with High Mobility Transceivers and Scatterers via Angle-Domain Processing and Deep Learning](https://arxiv.org/abs/2601.12970v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted for presentation at IEEE International Conference on Communications (ICC) 2026</p></details> |
+| **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v2)** | 2026-01-19 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Joint DOA and Non-circular Phase Estimation of Non-circular Signals for Antenna Arrays: Block Sparse Bayesian Learning Method](https://arxiv.org/abs/2601.09148v1)** | 2026-01-14 |  |
 | **[Directional Selective Fixed-Filter Active Noise Control Based on a Convolutional Neural Network in Reverberant Environments](https://arxiv.org/abs/2601.06981v1)** | 2026-01-11 |  |
 | **[TransDOA: Calibrating Array Imperfections via Transformer-based Transfer Learning](https://arxiv.org/abs/2504.13394v5)** | 2026-01-09 |  |
 | **[Sensing for Free: Learn to Localize More Sources than Antennas without Pilots](https://arxiv.org/abs/2506.23525v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 1 table. This paper was accepted by the IEEE Journal on Selected Areas in Communications (JSAC) on Jan. 5, 2026</p></details> |
 | **[The ECME Algorithm Using Factor Analysis for DOA Estimation in Nonuniform Noise](https://arxiv.org/abs/2508.02223v3)** | 2026-01-03 |  |
-| **[Compressive Toeplitz Covariance Estimation From Few-Bit Quantized Measurements With Applications to DOA Estimation](https://arxiv.org/abs/2512.22527v1)** | 2025-12-27 |  |
-| **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
-| **[Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions](https://arxiv.org/abs/2512.20165v1)** | 2025-12-23 |  |
 
