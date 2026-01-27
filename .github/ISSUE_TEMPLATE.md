@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - January 27, 2026
+title: Latest DoA Papers - January 28, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
 | **[Direction-of-Arrival and Noise Covariance Matrix joint estimation for beamforming](https://arxiv.org/abs/2511.10639v4)** | 2026-01-20 |  |
 | **[6G OFDM Communications with High Mobility Transceivers and Scatterers via Angle-Domain Processing and Deep Learning](https://arxiv.org/abs/2601.12970v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted for presentation at IEEE International Conference on Communications (ICC) 2026</p></details> |
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v2)** | 2026-01-19 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Directional Selective Fixed-Filter Active Noise Control Based on a Convolutional Neural Network in Reverberant Environments](https://arxiv.org/abs/2601.06981v1)** | 2026-01-11 |  |
 | **[TransDOA: Calibrating Array Imperfections via Transformer-based Transfer Learning](https://arxiv.org/abs/2504.13394v5)** | 2026-01-09 |  |
 | **[Sensing for Free: Learn to Localize More Sources than Antennas without Pilots](https://arxiv.org/abs/2506.23525v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 1 table. This paper was accepted by the IEEE Journal on Selected Areas in Communications (JSAC) on Jan. 5, 2026</p></details> |
-| **[The ECME Algorithm Using Factor Analysis for DOA Estimation in Nonuniform Noise](https://arxiv.org/abs/2508.02223v3)** | 2026-01-03 |  |
 
