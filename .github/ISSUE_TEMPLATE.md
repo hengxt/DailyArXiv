@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - January 28, 2026
+title: Latest DoA Papers - January 29, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,7 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v2)** | 2026-01-19 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
+| **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
 | **[A Study of Binaural Deep Beamforming With Interpretable Beampatterns Guided by Time-Varying RTF](https://arxiv.org/abs/2511.10168v1)** | 2025-11-13 | 5 pages, 6 figures |
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Covariance-Based DoA Estimation under Weather-Induced Distortion](https://arxiv.org/abs/2601.19623v1)** | 2026-01-27 |  |
+| **[HYPERDOA: Robust and Efficient DoA Estimation using Hyperdimensional Computing](https://arxiv.org/abs/2510.10718v2)** | 2026-01-27 | <details><summary>3 fig...</summary><p>3 figures, 5 pages. Paper accepted at ICASSP 2026. Authors' version posted for personal use and not for redistribution</p></details> |
+| **[LuSeeL: Language-queried Binaural Universal Sound Event Extraction and Localization](https://arxiv.org/abs/2601.19153v1)** | 2026-01-27 | ICASSP 2026 |
+| **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
 | **[Direction-of-Arrival and Noise Covariance Matrix joint estimation for beamforming](https://arxiv.org/abs/2511.10639v4)** | 2026-01-20 |  |
 | **[6G OFDM Communications with High Mobility Transceivers and Scatterers via Angle-Domain Processing and Deep Learning](https://arxiv.org/abs/2601.12970v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted for presentation at IEEE International Conference on Communications (ICC) 2026</p></details> |
-| **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v2)** | 2026-01-19 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Joint DOA and Non-circular Phase Estimation of Non-circular Signals for Antenna Arrays: Block Sparse Bayesian Learning Method](https://arxiv.org/abs/2601.09148v1)** | 2026-01-14 |  |
-| **[Directional Selective Fixed-Filter Active Noise Control Based on a Convolutional Neural Network in Reverberant Environments](https://arxiv.org/abs/2601.06981v1)** | 2026-01-11 |  |
-| **[TransDOA: Calibrating Array Imperfections via Transformer-based Transfer Learning](https://arxiv.org/abs/2504.13394v5)** | 2026-01-09 |  |
-| **[Sensing for Free: Learn to Localize More Sources than Antennas without Pilots](https://arxiv.org/abs/2506.23525v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 1 table. This paper was accepted by the IEEE Journal on Selected Areas in Communications (JSAC) on Jan. 5, 2026</p></details> |
 
