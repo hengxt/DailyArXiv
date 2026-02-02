@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - February 02, 2026
+title: Latest DoA Papers - February 03, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization](https://arxiv.org/abs/2504.08365v3)** | 2026-01-30 | <details><summary>accep...</summary><p>accepted at ICME 2025</p></details> |
 | **[Robust Covariance-Based DoA Estimation under Weather-Induced Distortion](https://arxiv.org/abs/2601.19623v1)** | 2026-01-27 |  |
 | **[HYPERDOA: Robust and Efficient DoA Estimation using Hyperdimensional Computing](https://arxiv.org/abs/2510.10718v2)** | 2026-01-27 | <details><summary>3 fig...</summary><p>3 figures, 5 pages. Paper accepted at ICASSP 2026. Authors' version posted for personal use and not for redistribution</p></details> |
 | **[LuSeeL: Language-queried Binaural Universal Sound Event Extraction and Localization](https://arxiv.org/abs/2601.19153v1)** | 2026-01-27 | ICASSP 2026 |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
 | **[Direction-of-Arrival and Noise Covariance Matrix joint estimation for beamforming](https://arxiv.org/abs/2511.10639v4)** | 2026-01-20 |  |
 | **[6G OFDM Communications with High Mobility Transceivers and Scatterers via Angle-Domain Processing and Deep Learning](https://arxiv.org/abs/2601.12970v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted for presentation at IEEE International Conference on Communications (ICC) 2026</p></details> |
-| **[Joint DOA and Non-circular Phase Estimation of Non-circular Signals for Antenna Arrays: Block Sparse Bayesian Learning Method](https://arxiv.org/abs/2601.09148v1)** | 2026-01-14 |  |
 
