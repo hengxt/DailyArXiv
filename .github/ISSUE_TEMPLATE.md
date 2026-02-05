@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - February 05, 2026
+title: Latest DoA Papers - February 06, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,19 +49,19 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
 | **[A Study of Binaural Deep Beamforming With Interpretable Beampatterns Guided by Time-Varying RTF](https://arxiv.org/abs/2511.10168v1)** | 2025-11-13 | 5 pages, 6 figures |
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
 | **[Consensus Tracking of an Underwater Vehicle Using Weighted Harmonic Mean Density](https://arxiv.org/abs/2511.03130v1)** | 2025-11-05 |  |
 | **[State Space and Self-Attention Collaborative Network with Feature Aggregation for DOA Estimation](https://arxiv.org/abs/2510.25193v1)** | 2025-10-29 |  |
-| **[A Unified Framework for Direction and Diffuseness Estimation Using Tight-Frame Microphone Arrays](https://arxiv.org/abs/2510.22183v2)** | 2025-10-28 | <details><summary>36 pa...</summary><p>36 pages including 14 files</p></details> |
 | **[Perceptual Compensation of Ambisonics Recordings for Reproduction in Room](https://arxiv.org/abs/2510.10883v1)** | 2025-10-13 | <details><summary>The m...</summary><p>The manuscript was submitted to the JASA and is under review</p></details> |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Unified Framework for Direction and Diffuseness Estimation Using Tight-Frame Microphone Arrays](https://arxiv.org/abs/2510.22183v2)** | 2025-10-28 | <details><summary>36 pa...</summary><p>36 pages including 14 files</p></details> |
+| **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 | **[Ambiguity-Free Broadband DOA Estimation Relying on Parameterized Time-Frequency Transform](https://arxiv.org/abs/2503.03691v1)** | 2025-03-05 | 6 figures |
 | **[Fully Bayesian Wideband Direction-of-Arrival Estimation and Detection via RJMCMC](https://arxiv.org/abs/2412.08895v1)** | 2024-12-12 |  |
 | **[Comparison of Frequency-Fusion Mechanisms for Binaural Direction-of-Arrival Estimation for Multiple Speakers](https://arxiv.org/abs/2401.07849v1)** | 2024-01-15 | <details><summary>Accep...</summary><p>Accepted for ICASSP 2024</p></details> |
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Angular Pseudo-Derivative Searching: A Single Snapshot Super-resolution Sparse DOA Scheme with Potential for Practical Application](https://arxiv.org/abs/2602.04169v1)** | 2026-02-04 |  |
 | **[Uncertainty-Weighted Multi-Task CNN for Joint DoA and Rain-Rate Estimation Under Rain-Induced Array Distortions](https://arxiv.org/abs/2602.01961v1)** | 2026-02-02 |  |
 | **[Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization](https://arxiv.org/abs/2504.08365v3)** | 2026-01-30 | <details><summary>accep...</summary><p>accepted at ICME 2025</p></details> |
 | **[Robust Covariance-Based DoA Estimation under Weather-Induced Distortion](https://arxiv.org/abs/2601.19623v1)** | 2026-01-27 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[LuSeeL: Language-queried Binaural Universal Sound Event Extraction and Localization](https://arxiv.org/abs/2601.19153v1)** | 2026-01-27 | ICASSP 2026 |
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
-| **[Joint single-shot ToA and DoA estimation for VAA-based BLE ranging with phase ambiguity: A deep learning-based approach](https://arxiv.org/abs/2602.02503v1)** | 2026-01-21 |  |
 
