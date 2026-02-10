@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - February 10, 2026
+title: Latest DoA Papers - February 11, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Spatial Angular Pseudo-Derivative Searching: A Single Snapshot Super-resolution Sparse DOA Scheme with Potential for Practical Application](https://arxiv.org/abs/2602.04169v1)** | 2026-02-04 |  |
+| **[Spatial Angular Pseudo-Derivative Searching: A Single Snapshot Super-resolution Sparse DOA Scheme with Potential for Practical Application](https://arxiv.org/abs/2602.04169v2)** | 2026-02-08 |  |
+| **[Beyond $λ/2$: Can Arbitrary EMVS Arrays Achieve Unambiguous NLOS Localization?](https://arxiv.org/abs/2602.07515v1)** | 2026-02-07 |  |
 | **[Uncertainty-Weighted Multi-Task CNN for Joint DoA and Rain-Rate Estimation Under Rain-Induced Array Distortions](https://arxiv.org/abs/2602.01961v1)** | 2026-02-02 |  |
 | **[Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization](https://arxiv.org/abs/2504.08365v3)** | 2026-01-30 | <details><summary>accep...</summary><p>accepted at ICME 2025</p></details> |
 | **[Robust Covariance-Based DoA Estimation under Weather-Induced Distortion](https://arxiv.org/abs/2601.19623v1)** | 2026-01-27 |  |
 | **[HYPERDOA: Robust and Efficient DoA Estimation using Hyperdimensional Computing](https://arxiv.org/abs/2510.10718v2)** | 2026-01-27 | <details><summary>3 fig...</summary><p>3 figures, 5 pages. Paper accepted at ICASSP 2026. Authors' version posted for personal use and not for redistribution</p></details> |
 | **[LuSeeL: Language-queried Binaural Universal Sound Event Extraction and Localization](https://arxiv.org/abs/2601.19153v1)** | 2026-01-27 | ICASSP 2026 |
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
-| **[Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification](https://arxiv.org/abs/2601.18335v1)** | 2026-01-26 | Accepted by ICASSP26 |
 
