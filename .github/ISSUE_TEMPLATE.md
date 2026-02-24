@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - February 24, 2026
+title: Latest DoA Papers - February 25, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,6 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v1)** | 2026-02-20 |  |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
 | **[Consensus Tracking of an Underwater Vehicle Using Weighted Harmonic Mean Density](https://arxiv.org/abs/2511.03130v1)** | 2025-11-05 |  |
 | **[State Space and Self-Attention Collaborative Network with Feature Aggregation for DOA Estimation](https://arxiv.org/abs/2510.25193v1)** | 2025-10-29 |  |
-| **[Perceptual Compensation of Ambisonics Recordings for Reproduction in Room](https://arxiv.org/abs/2510.10883v1)** | 2025-10-13 | <details><summary>The m...</summary><p>The manuscript was submitted to the JASA and is under review</p></details> |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
