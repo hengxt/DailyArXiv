@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - February 26, 2026
+title: Latest DoA Papers - February 27, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross-Pilot Superposition for Fractional Parameter Estimation in DoA-Aided OTFS Receivers](https://arxiv.org/abs/2602.21801v1)** | 2026-02-25 | Submitted |
+| **[Semi-Gridless Variational Bayes Channel Estimation in XL-MIMO: Near-Field Modeling and Inference](https://arxiv.org/abs/2602.21449v1)** | 2026-02-25 | 12 pages, 11 figures |
 | **[Spatial Angular Pseudo-Derivative Search: A Single Snapshot Super-resolution Sparse DOA Scheme with Potential for Practical Application](https://arxiv.org/abs/2602.04169v3)** | 2026-02-18 |  |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[Target Induced Angle Grid Regularized Estimation for Ghost Identification in Automotive Radar](https://arxiv.org/abs/2602.11441v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to the 2025 59th Asilomar Conference on Signals, Systems, and Computers (Session MP5a: Array Processing for mmWave Sensing)</p></details> |
 | **[Beyond $λ/2$: Can Arbitrary EMVS Arrays Achieve Unambiguous NLOS Localization?](https://arxiv.org/abs/2602.07515v1)** | 2026-02-07 |  |
 | **[Uncertainty-Weighted Multi-Task CNN for Joint DoA and Rain-Rate Estimation Under Rain-Induced Array Distortions](https://arxiv.org/abs/2602.01961v1)** | 2026-02-02 |  |
 | **[Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization](https://arxiv.org/abs/2504.08365v3)** | 2026-01-30 | <details><summary>accep...</summary><p>accepted at ICME 2025</p></details> |
-| **[Robust Covariance-Based DoA Estimation under Weather-Induced Distortion](https://arxiv.org/abs/2601.19623v1)** | 2026-01-27 |  |
-| **[HYPERDOA: Robust and Efficient DoA Estimation using Hyperdimensional Computing](https://arxiv.org/abs/2510.10718v2)** | 2026-01-27 | <details><summary>3 fig...</summary><p>3 figures, 5 pages. Paper accepted at ICASSP 2026. Authors' version posted for personal use and not for redistribution</p></details> |
 
