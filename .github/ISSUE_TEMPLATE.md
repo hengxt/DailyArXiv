@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - March 03, 2026
+title: Latest DoA Papers - March 04, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation](https://arxiv.org/abs/2603.00633v1)** | 2026-02-28 | 5 pages |
 | **[Cross-Pilot Superposition for Fractional Parameter Estimation in DoA-Aided OTFS Receivers](https://arxiv.org/abs/2602.21801v1)** | 2026-02-25 | Submitted |
 | **[Semi-Gridless Variational Bayes Channel Estimation in XL-MIMO: Near-Field Modeling and Inference](https://arxiv.org/abs/2602.21449v1)** | 2026-02-25 | 12 pages, 11 figures |
 | **[Spatial Angular Pseudo-Derivative Search: A Single Snapshot Super-resolution Sparse DOA Scheme with Potential for Practical Application](https://arxiv.org/abs/2602.04169v3)** | 2026-02-18 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Target Induced Angle Grid Regularized Estimation for Ghost Identification in Automotive Radar](https://arxiv.org/abs/2602.11441v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to the 2025 59th Asilomar Conference on Signals, Systems, and Computers (Session MP5a: Array Processing for mmWave Sensing)</p></details> |
 | **[Beyond $λ/2$: Can Arbitrary EMVS Arrays Achieve Unambiguous NLOS Localization?](https://arxiv.org/abs/2602.07515v1)** | 2026-02-07 |  |
 | **[Uncertainty-Weighted Multi-Task CNN for Joint DoA and Rain-Rate Estimation Under Rain-Induced Array Distortions](https://arxiv.org/abs/2602.01961v1)** | 2026-02-02 |  |
-| **[Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization](https://arxiv.org/abs/2504.08365v3)** | 2026-01-30 | <details><summary>accep...</summary><p>accepted at ICME 2025</p></details> |
 
