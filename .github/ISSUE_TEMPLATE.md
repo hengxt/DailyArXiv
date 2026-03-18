@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - March 18, 2026
+title: Latest DoA Papers - March 19, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
 | **[Mixture-of-Experts Framework for Field-of-View Enhanced Signal-Dependent Binauralization of Moving Talkers](https://arxiv.org/abs/2509.13548v3)** | 2025-09-25 | 5 pages, 3 figures |
@@ -44,7 +45,6 @@ labels: signal-processing, doa, array-processing
 | **[Learning Robust Spatial Representations from Binaural Audio through Feature Distillation](https://arxiv.org/abs/2508.20914v1)** | 2025-08-28 | <details><summary>To ap...</summary><p>To appear in Proc. WASPAA 2025, October 12-15, 2025, Tahoe, US. Copyright (c) 2025 IEEE. 5 pages, 2 figures, 2 tables</p></details> |
 | **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](https://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
 | **[End-to-End DOA-Guided Speech Extraction in Noisy Multi-Talker Scenarios](https://arxiv.org/abs/2507.20926v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2025</p></details> |
-| **[End-to-end multi-channel speaker extraction and binaural speech synthesis](https://arxiv.org/abs/2410.05739v2)** | 2025-07-11 |  |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Spatially-Augmented Sequence-to-Sequence Neural Diarization for Meetings](https://arxiv.org/abs/2510.09505v2)** | 2026-03-07 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation](https://arxiv.org/abs/2603.00633v1)** | 2026-02-28 | 5 pages |
 | **[Cross-Pilot Superposition for Fractional Parameter Estimation in DoA-Aided OTFS Receivers](https://arxiv.org/abs/2602.21801v1)** | 2026-02-25 | Submitted |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Spatial Angular Pseudo-Derivative Search: A Single Snapshot Super-resolution Sparse DOA Scheme with Potential for Practical Application](https://arxiv.org/abs/2602.04169v3)** | 2026-02-18 |  |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[Target Induced Angle Grid Regularized Estimation for Ghost Identification in Automotive Radar](https://arxiv.org/abs/2602.11441v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to the 2025 59th Asilomar Conference on Signals, Systems, and Computers (Session MP5a: Array Processing for mmWave Sensing)</p></details> |
-| **[Beyond $λ/2$: Can Arbitrary EMVS Arrays Achieve Unambiguous NLOS Localization?](https://arxiv.org/abs/2602.07515v1)** | 2026-02-07 |  |
 
