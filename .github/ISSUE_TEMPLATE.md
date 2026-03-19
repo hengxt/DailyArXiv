@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - March 19, 2026
+title: Latest DoA Papers - March 20, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,6 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 | **[Joint single-shot ToA and DoA estimation for VAA-based BLE ranging with phase ambiguity: A deep learning-based approach](https://arxiv.org/abs/2602.02503v1)** | 2026-01-21 |  |
 | **[An Fluid Antenna Array-Enabled DOA Estimation Method: End-Fire Effect Suppression](https://arxiv.org/abs/2512.18981v1)** | 2025-12-22 |  |
 | **[Adaptive MIMO Radar Architecture for Energy-Efficient Wireless Sensing in the D-Band](https://arxiv.org/abs/2309.17110v4)** | 2025-12-12 |  |
@@ -14,7 +15,6 @@ labels: signal-processing, doa, array-processing
 | **[Spatial Signal Focusing and Noise Suppression for Direction-of-Arrival Estimation in Large-Aperture 2D Arrays under Demanding Conditions](https://arxiv.org/abs/2510.10923v1)** | 2025-10-13 |  |
 | **[Single-Snapshot Localization Using Sparse Extremely Large Aperture Arrays](https://arxiv.org/abs/2509.17511v1)** | 2025-09-22 | <details><summary>ICASS...</summary><p>ICASSP 2026 manuscript under review</p></details> |
 | **[Direction of Arrival Estimation: A Tutorial Survey of Classical and Modern Methods](https://arxiv.org/abs/2508.11675v2)** | 2025-09-02 | <details><summary>DOA S...</summary><p>DOA Survey, 44 pages, Not published yet</p></details> |
-| **[Fluid Antenna Enabled Direction-of-Arrival Estimation Under Time-Constrained Mobility](https://arxiv.org/abs/2508.10820v1)** | 2025-08-14 | 13 pages |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 | **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Spatially-Augmented Sequence-to-Sequence Neural Diarization for Meetings](https://arxiv.org/abs/2510.09505v2)** | 2026-03-07 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation](https://arxiv.org/abs/2603.00633v1)** | 2026-02-28 | 5 pages |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Semi-Gridless Variational Bayes Channel Estimation in XL-MIMO: Near-Field Modeling and Inference](https://arxiv.org/abs/2602.21449v1)** | 2026-02-25 | 12 pages, 11 figures |
 | **[Spatial Angular Pseudo-Derivative Search: A Single Snapshot Super-resolution Sparse DOA Scheme with Potential for Practical Application](https://arxiv.org/abs/2602.04169v3)** | 2026-02-18 |  |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
-| **[Target Induced Angle Grid Regularized Estimation for Ghost Identification in Automotive Radar](https://arxiv.org/abs/2602.11441v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to the 2025 59th Asilomar Conference on Signals, Systems, and Computers (Session MP5a: Array Processing for mmWave Sensing)</p></details> |
 
