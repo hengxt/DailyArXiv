@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - March 25, 2026
+title: Latest DoA Papers - March 26, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,7 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v1)** | 2026-03-21 |  |
+| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v2)** | 2026-03-24 |  |
 | **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 | **[Joint single-shot ToA and DoA estimation for VAA-based BLE ranging with phase ambiguity: A deep learning-based approach](https://arxiv.org/abs/2602.02503v1)** | 2026-01-21 |  |
 | **[An Fluid Antenna Array-Enabled DOA Estimation Method: End-Fire Effect Suppression](https://arxiv.org/abs/2512.18981v1)** | 2025-12-22 |  |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v1)** | 2026-03-21 |  |
+| **[Geometric Direction Finding on Dynamic Manifolds: Unambiguous DOA Estimation for Spatially Undersampled UWB Arrays](https://arxiv.org/abs/2603.23267v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 13 figures. Submitted to IEEE Transactions on Wireless Communications and currently under review</p></details> |
+| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v2)** | 2026-03-24 |  |
 | **[Reinforcement Learning-Based Secure Near-field Directional Modulation Enhanced by Rotatable RIS](https://arxiv.org/abs/2603.20608v1)** | 2026-03-21 |  |
 | **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 | **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Spatially-Augmented Sequence-to-Sequence Neural Diarization for Meetings](https://arxiv.org/abs/2510.09505v2)** | 2026-03-07 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation](https://arxiv.org/abs/2603.00633v1)** | 2026-02-28 | 5 pages |
 | **[Cross-Pilot Superposition for Fractional Parameter Estimation in DoA-Aided OTFS Receivers](https://arxiv.org/abs/2602.21801v1)** | 2026-02-25 | Submitted |
-| **[Semi-Gridless Variational Bayes Channel Estimation in XL-MIMO: Near-Field Modeling and Inference](https://arxiv.org/abs/2602.21449v1)** | 2026-02-25 | 12 pages, 11 figures |
 
