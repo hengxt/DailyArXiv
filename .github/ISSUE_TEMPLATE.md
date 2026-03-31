@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - March 31, 2026
+title: Latest DoA Papers - April 01, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Efficient Velocity Profile Optimization for Movable Antenna-Enabled Sensing Systems](https://arxiv.org/abs/2603.27540v1)** | 2026-03-29 |  |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[Geometric Direction Finding on Dynamic Manifolds: Unambiguous DOA Estimation for Spatially Undersampled UWB Arrays](https://arxiv.org/abs/2603.23267v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 13 figures. Submitted to IEEE Transactions on Wireless Communications and currently under review</p></details> |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v2)** | 2026-03-24 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 | **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Spatially-Augmented Sequence-to-Sequence Neural Diarization for Meetings](https://arxiv.org/abs/2510.09505v2)** | 2026-03-07 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
-| **[FDR Control for Complex-Valued Data with Application in Single Snapshot Multi-Source Detection and DOA Estimation](https://arxiv.org/abs/2603.00633v1)** | 2026-02-28 | 5 pages |
 
