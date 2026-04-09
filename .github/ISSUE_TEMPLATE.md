@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - April 09, 2026
+title: Latest DoA Papers - April 10, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -74,11 +74,11 @@ labels: signal-processing, doa, array-processing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Joint Shape-Position Optimization Enhanced 2D DOA Estimation in Movable Antenna Systems](https://arxiv.org/abs/2604.04132v1)** | 2026-04-05 |  |
-| **[Algebraic Diversity: Group-Theoretic Spectral Estimation from Single Observations](https://arxiv.org/abs/2604.03634v1)** | 2026-04-04 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v3)** | 2026-04-03 |  |
 | **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
 | **[DOA Estimation for Low-Altitude Networks: HAD Architectures, Methods, and Challenges](https://arxiv.org/abs/2604.00864v1)** | 2026-04-01 |  |
 | **[Energy-Efficient Velocity Profile Optimization for Movable Antenna-Enabled Sensing Systems](https://arxiv.org/abs/2603.27540v1)** | 2026-03-29 |  |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[Geometric Direction Finding on Dynamic Manifolds: Unambiguous DOA Estimation for Spatially Undersampled UWB Arrays](https://arxiv.org/abs/2603.23267v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 13 figures. Submitted to IEEE Transactions on Wireless Communications and currently under review</p></details> |
+| **[Reinforcement Learning-Based Secure Near-field Directional Modulation Enhanced by Rotatable RIS](https://arxiv.org/abs/2603.20608v1)** | 2026-03-21 |  |
 
