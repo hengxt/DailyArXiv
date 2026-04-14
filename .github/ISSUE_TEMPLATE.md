@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - April 14, 2026
+title: Latest DoA Papers - April 15, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Direction-Preserving MIMO Speech Enhancement Using a Neural Covariance Estimator](https://arxiv.org/abs/2604.11179v1)** | 2026-04-13 |  |
 | **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
 | **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
@@ -44,7 +45,6 @@ labels: signal-processing, doa, array-processing
 | **[Mixture-of-Experts Framework for Field-of-View Enhanced Signal-Dependent Binauralization of Moving Talkers](https://arxiv.org/abs/2509.13548v3)** | 2025-09-25 | 5 pages, 3 figures |
 | **[GAN-Based Multi-Microphone Spatial Target Speaker Extraction](https://arxiv.org/abs/2509.17741v1)** | 2025-09-22 |  |
 | **[Learning Robust Spatial Representations from Binaural Audio through Feature Distillation](https://arxiv.org/abs/2508.20914v1)** | 2025-08-28 | <details><summary>To ap...</summary><p>To appear in Proc. WASPAA 2025, October 12-15, 2025, Tahoe, US. Copyright (c) 2025 IEEE. 5 pages, 2 figures, 2 tables</p></details> |
-| **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](https://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
