@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - April 16, 2026
+title: Latest DoA Papers - April 17, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,6 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hybrid Architecture Gets Fluid: A New Paradigm for Direction-of-arrival Estimation in 6G Networks](https://arxiv.org/abs/2604.13587v1)** | 2026-04-15 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v3)** | 2026-04-03 |  |
 | **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 | **[Joint single-shot ToA and DoA estimation for VAA-based BLE ranging with phase ambiguity: A deep learning-based approach](https://arxiv.org/abs/2602.02503v1)** | 2026-01-21 |  |
@@ -14,7 +15,6 @@ labels: signal-processing, doa, array-processing
 | **[Adaptive MIMO Radar Architecture for Energy-Efficient Wireless Sensing in the D-Band](https://arxiv.org/abs/2309.17110v4)** | 2025-12-12 |  |
 | **[DoA Estimation with Sparse Arrays: Effects of Antenna Element Patterns and Nonidealities](https://arxiv.org/abs/2511.23028v1)** | 2025-11-28 |  |
 | **[Spatial Signal Focusing and Noise Suppression for Direction-of-Arrival Estimation in Large-Aperture 2D Arrays under Demanding Conditions](https://arxiv.org/abs/2510.10923v1)** | 2025-10-13 |  |
-| **[Single-Snapshot Localization Using Sparse Extremely Large Aperture Arrays](https://arxiv.org/abs/2509.17511v1)** | 2025-09-22 | <details><summary>ICASS...</summary><p>ICASSP 2026 manuscript under review</p></details> |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Large-Dimensional Analysis of ESPRIT DoA Estimation: Inconsistency and a Correction via RMT](https://arxiv.org/abs/2501.02746v2)** | 2026-04-15 | <details><summary>29 pa...</summary><p>29 pages, 10 figures, to appear on IEEE Trans. SP. Part of this work was presented at the IEEE 32nd European Signal Processing Conference (EUSIPCO 2024), Lyon, France, under the title "Inconsistency of ESPRIT DoA Estimation for Large Arrays and a Correction via RMT."</p></details> |
+| **[Hybrid Architecture Gets Fluid: A New Paradigm for Direction-of-arrival Estimation in 6G Networks](https://arxiv.org/abs/2604.13587v1)** | 2026-04-15 |  |
 | **[Joint Shape-Position Optimization Enhanced 2D DOA Estimation in Movable Antenna Systems](https://arxiv.org/abs/2604.04132v1)** | 2026-04-05 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v3)** | 2026-04-03 |  |
 | **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
 | **[DOA Estimation for Low-Altitude Networks: HAD Architectures, Methods, and Challenges](https://arxiv.org/abs/2604.00864v1)** | 2026-04-01 |  |
 | **[Energy-Efficient Velocity Profile Optimization for Movable Antenna-Enabled Sensing Systems](https://arxiv.org/abs/2603.27540v1)** | 2026-03-29 |  |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
-| **[Geometric Direction Finding on Dynamic Manifolds: Unambiguous DOA Estimation for Spatially Undersampled UWB Arrays](https://arxiv.org/abs/2603.23267v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 13 figures. Submitted to IEEE Transactions on Wireless Communications and currently under review</p></details> |
-| **[Reinforcement Learning-Based Secure Near-field Directional Modulation Enhanced by Rotatable RIS](https://arxiv.org/abs/2603.20608v1)** | 2026-03-21 |  |
 
