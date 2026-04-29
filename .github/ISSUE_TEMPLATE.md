@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - April 29, 2026
+title: Latest DoA Papers - April 30, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -8,10 +8,22 @@ labels: signal-processing, doa, array-processing
 No new papers found.
 
 ## SBL Array
-No new papers found.
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Spatially Filtered Sparse Bayesian Learning for Direction-of-Arrival Estimation with Leaky-Wave Antennas](https://arxiv.org/abs/2510.10796v1)** | 2025-10-12 | <details><summary>Prepr...</summary><p>Preprint submitted to ICASSP 2026. 4 pages, 3 figures</p></details> |
+| **[Sparse Bayesian Learning for DOA Estimation in Heteroscedastic Noise](https://arxiv.org/abs/1711.03847v1)** | 2017-11-08 | <details><summary>Submi...</summary><p>Submitted to IEEE TSP</p></details> |
 
 ## Subspace Array
-No new papers found.
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
+| **[Sensing for Free: Learn to Localize More Sources than Antennas without Pilots](https://arxiv.org/abs/2506.23525v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 1 table. This paper was accepted by the IEEE Journal on Selected Areas in Communications (JSAC) on Jan. 5, 2026</p></details> |
+| **[Efficient Decoders for Sensing Subspace Code](https://arxiv.org/abs/2512.05028v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This paper was accepted for presentation at the 59th Annual Asilomar Conference on Signals, Systems, and Computers</p></details> |
+| **[Spatial Signal Focusing and Noise Suppression for Direction-of-Arrival Estimation in Large-Aperture 2D Arrays under Demanding Conditions](https://arxiv.org/abs/2510.10923v1)** | 2025-10-13 |  |
+| **[Joint DOA and Attitude Sensing Based on Tri-Polarized Continuous Aperture Array](https://arxiv.org/abs/2510.02029v1)** | 2025-10-02 | 13 pages, 10 figures |
+| **[Direction of Arrival Estimation: A Tutorial Survey of Classical and Modern Methods](https://arxiv.org/abs/2508.11675v2)** | 2025-09-02 | <details><summary>DOA S...</summary><p>DOA Survey, 44 pages, Not published yet</p></details> |
+| **[Near Field Localization via AI-Aided Subspace Methods](https://arxiv.org/abs/2504.00599v2)** | 2025-06-27 | <details><summary>Under...</summary><p>Under review for publication in the IEEE</p></details> |
+| **[Mainlobe Jamming Suppression Using MIMO-STCA Radar](https://arxiv.org/abs/2505.09112v1)** | 2025-05-14 |  |
 
 ## Speech
 | **Title** | **Date** | **Comment** |
@@ -28,6 +40,7 @@ No new papers found.
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v1)** | 2026-02-20 |  |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
@@ -35,7 +48,6 @@ No new papers found.
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
 | **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
-| **[Consensus Tracking of an Underwater Vehicle Using Weighted Harmonic Mean Density](https://arxiv.org/abs/2511.03130v1)** | 2025-11-05 |  |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
@@ -52,6 +64,7 @@ No new papers found.
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ASAP: An Azimuth-Priority Strip-Based Search Approach to Planar Microphone Array DOA Estimation in 3D](https://arxiv.org/abs/2604.25387v1)** | 2026-04-28 | <details><summary>This ...</summary><p>This paper has been accepted to the Fourteenth IEEE Sensor Array and Multichannel Signal Processing Workshop, 2026</p></details> |
 | **[An Interactive Graphical Tool to Check the Coarray Continuity of Two-Fold Redundant Sparse Arrays (TFRSAs) Under Single Sensor Failures](https://arxiv.org/abs/2604.23262v1)** | 2026-04-25 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 1 Table</p></details> |
 | **[Predictive Directional Selective Fixed-Filter Active Noise Control for Moving Sources via a Convolutional Recurrent Neural Network](https://arxiv.org/abs/2604.23144v1)** | 2026-04-25 |  |
 | **[Multi-Source Position and Direction-of-Arrival Estimation Based on Euclidean Distance Matrices](https://arxiv.org/abs/2510.02556v2)** | 2026-04-17 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, submitted to IEEE Transactions on Audio, Speech and Language Processing (awaiting review)</p></details> |
@@ -59,5 +72,4 @@ No new papers found.
 | **[Hybrid Architecture Gets Fluid: A New Paradigm for Direction-of-arrival Estimation in 6G Networks](https://arxiv.org/abs/2604.13587v1)** | 2026-04-15 |  |
 | **[Joint Shape-Position Optimization Enhanced 2D DOA Estimation in Movable Antenna Systems](https://arxiv.org/abs/2604.04132v1)** | 2026-04-05 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v3)** | 2026-04-03 |  |
-| **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
 
