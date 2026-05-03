@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - May 01, 2026
+title: Latest DoA Papers - May 04, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,6 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
 | **[Hybrid Architecture Gets Fluid: A New Paradigm for Direction-of-arrival Estimation in 6G Networks](https://arxiv.org/abs/2604.13587v1)** | 2026-04-15 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotation Antenna Array](https://arxiv.org/abs/2603.20784v3)** | 2026-04-03 |  |
 | **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
@@ -14,7 +15,6 @@ labels: signal-processing, doa, array-processing
 | **[An Fluid Antenna Array-Enabled DOA Estimation Method: End-Fire Effect Suppression](https://arxiv.org/abs/2512.18981v1)** | 2025-12-22 |  |
 | **[Adaptive MIMO Radar Architecture for Energy-Efficient Wireless Sensing in the D-Band](https://arxiv.org/abs/2309.17110v4)** | 2025-12-12 |  |
 | **[DoA Estimation with Sparse Arrays: Effects of Antenna Element Patterns and Nonidealities](https://arxiv.org/abs/2511.23028v1)** | 2025-11-28 |  |
-| **[Spatial Signal Focusing and Noise Suppression for Direction-of-Arrival Estimation in Large-Aperture 2D Arrays under Demanding Conditions](https://arxiv.org/abs/2510.10923v1)** | 2025-10-13 |  |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
 | **[Optimizing Dynamic Metasurface Antenna Configurations for Direction-of-Arrival and Polarization Estimation Using an Experimentally Calibrated Multiport-Network Model](https://arxiv.org/abs/2604.26948v1)** | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages with 6 figures</p></details> |
 | **[Multi-Speaker DOA Estimation in Binaural Hearing Aids using Deep Learning and Speaker Count Fusion](https://arxiv.org/abs/2509.21382v2)** | 2026-04-29 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to appear in IEEE ICASSP 2026</p></details> |
 | **[Super-resolution Multi-signal Direction-of-Arrival Estimation by Hankel-structured Sensing and Decomposition](https://arxiv.org/abs/2604.26793v1)** | 2026-04-29 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[ASAP: An Azimuth-Priority Strip-Based Search Approach to Planar Microphone Array DOA Estimation in 3D](https://arxiv.org/abs/2604.25387v1)** | 2026-04-28 | <details><summary>This ...</summary><p>This paper has been accepted to the Fourteenth IEEE Sensor Array and Multichannel Signal Processing Workshop, 2026</p></details> |
 | **[An Interactive Graphical Tool to Check the Coarray Continuity of Two-Fold Redundant Sparse Arrays (TFRSAs) Under Single Sensor Failures](https://arxiv.org/abs/2604.23262v1)** | 2026-04-25 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 1 Table</p></details> |
 | **[Predictive Directional Selective Fixed-Filter Active Noise Control for Moving Sources via a Convolutional Recurrent Neural Network](https://arxiv.org/abs/2604.23144v1)** | 2026-04-25 |  |
-| **[Multi-Source Position and Direction-of-Arrival Estimation Based on Euclidean Distance Matrices](https://arxiv.org/abs/2510.02556v2)** | 2026-04-17 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, submitted to IEEE Transactions on Audio, Speech and Language Processing (awaiting review)</p></details> |
 
