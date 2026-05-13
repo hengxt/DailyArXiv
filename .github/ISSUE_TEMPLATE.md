@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - May 13, 2026
+title: Latest DoA Papers - May 14, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Power Estimation via Riemannian Covariance Matching](https://arxiv.org/abs/2605.11917v1)** | 2026-05-12 |  |
 | **[LO-Free Receiver: Next-Gen Low-Power Joint Communication and Sensing](https://arxiv.org/abs/2605.10192v1)** | 2026-05-11 | <details><summary>The p...</summary><p>The paper was accepted by VTC</p></details> |
 | **[Orthogonal Least Squares with Integrated Information Theoretic Criteria for Joint Number of Targets and DoA Estimation](https://arxiv.org/abs/2605.06198v1)** | 2026-05-07 | <details><summary>5 pag...</summary><p>5 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Superimposed Cross-Pilots: Addressing Fractional Shifts in DoA-Aided OTFS](https://arxiv.org/abs/2602.21801v2)** | 2026-05-04 | Submitted |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[AULAs: A Novel Family of Augmented ULAs for Enhanced Localization of Non-Circular Sources with Reduced Mutual Coupling Effects](https://arxiv.org/abs/2605.01228v1)** | 2026-05-02 |  |
 | **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
 | **[Optimizing Dynamic Metasurface Antenna Configurations for Direction-of-Arrival and Polarization Estimation Using an Experimentally Calibrated Multiport-Network Model](https://arxiv.org/abs/2604.26948v1)** | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages with 6 figures</p></details> |
-| **[Multi-Speaker DOA Estimation in Binaural Hearing Aids using Deep Learning and Speaker Count Fusion](https://arxiv.org/abs/2509.21382v2)** | 2026-04-29 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to appear in IEEE ICASSP 2026</p></details> |
 
