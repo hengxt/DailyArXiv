@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - May 25, 2026
+title: Latest DoA Papers - May 26, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Utilizing Missed Detections in Directional Sensitivity-Based DOA Estimation](https://arxiv.org/abs/2605.23536v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Self-Calibration DOA Estimation for Movable Antenna Systems with Antenna Position Errors](https://arxiv.org/abs/2605.23140v1)** | 2026-05-22 |  |
 | **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v1)** | 2026-05-21 |  |
 | **[Microwave Linear Analog Computer (MiLAC)-Aided MIMO Radar Sensing: Transmit Beamforming Design and DoA Estimation](https://arxiv.org/abs/2605.21020v1)** | 2026-05-20 | <details><summary>Submi...</summary><p>Submitted to IEEE journal</p></details> |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v4)** | 2026-05-19 |  |
 | **[Sparse Fluid Antenna Arrays: Continuous Position Design Beyond Classical DOF Limits](https://arxiv.org/abs/2605.19455v1)** | 2026-05-19 |  |
 | **[Flexible Multi-Channel Target Speaker Extraction Using Geometry-Conditioned Spatially Selective Non-linear Filters](https://arxiv.org/abs/2605.18442v1)** | 2026-05-18 | <details><summary>Submi...</summary><p>Submitted to IWAENC2026</p></details> |
 | **[Super-resolution Multi-signal Direction-of-Arrival Estimation by Hankel-structured Sensing and Decomposition](https://arxiv.org/abs/2604.26793v2)** | 2026-05-18 |  |
-| **[Spatial Power Estimation via Riemannian Covariance Matching](https://arxiv.org/abs/2605.11917v1)** | 2026-05-12 |  |
-| **[LO-Free Receiver: Next-Gen Low-Power Joint Communication and Sensing](https://arxiv.org/abs/2605.10192v1)** | 2026-05-11 | <details><summary>The p...</summary><p>The paper was accepted by VTC</p></details> |
 
