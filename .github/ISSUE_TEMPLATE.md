@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - May 26, 2026
+title: Latest DoA Papers - May 27, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,6 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Quantum-MUSIC for DoA Estimation Using Rydberg Atomic Receiver Arrays](https://arxiv.org/abs/2605.25688v1)** | 2026-05-25 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v4)** | 2026-05-19 |  |
 | **[Sparse Fluid Antenna Arrays: Continuous Position Design Beyond Classical DOF Limits](https://arxiv.org/abs/2605.19455v1)** | 2026-05-19 |  |
 | **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
@@ -14,7 +15,6 @@ labels: signal-processing, doa, array-processing
 | **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 | **[Joint single-shot ToA and DoA estimation for VAA-based BLE ranging with phase ambiguity: A deep learning-based approach](https://arxiv.org/abs/2602.02503v1)** | 2026-01-21 |  |
 | **[An Fluid Antenna Array-Enabled DOA Estimation Method: End-Fire Effect Suppression](https://arxiv.org/abs/2512.18981v1)** | 2025-12-22 |  |
-| **[Adaptive MIMO Radar Architecture for Energy-Efficient Wireless Sensing in the D-Band](https://arxiv.org/abs/2309.17110v4)** | 2025-12-12 |  |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
@@ -49,10 +49,10 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
-| **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v1)** | 2026-02-20 |  |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Quantum-MUSIC for DoA Estimation Using Rydberg Atomic Receiver Arrays](https://arxiv.org/abs/2605.25688v1)** | 2026-05-25 |  |
+| **[Scalable Fluid Antenna Systems: A New Paradigm for Array Signal Processing](https://arxiv.org/abs/2508.10831v2)** | 2026-05-23 | <details><summary>13 pa...</summary><p>13 pages, accepted by IEEE JSTSP</p></details> |
 | **[Utilizing Missed Detections in Directional Sensitivity-Based DOA Estimation](https://arxiv.org/abs/2605.23536v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Self-Calibration DOA Estimation for Movable Antenna Systems with Antenna Position Errors](https://arxiv.org/abs/2605.23140v1)** | 2026-05-22 |  |
 | **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v1)** | 2026-05-21 |  |
 | **[Microwave Linear Analog Computer (MiLAC)-Aided MIMO Radar Sensing: Transmit Beamforming Design and DoA Estimation](https://arxiv.org/abs/2605.21020v1)** | 2026-05-20 | <details><summary>Submi...</summary><p>Submitted to IEEE journal</p></details> |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v4)** | 2026-05-19 |  |
 | **[Sparse Fluid Antenna Arrays: Continuous Position Design Beyond Classical DOF Limits](https://arxiv.org/abs/2605.19455v1)** | 2026-05-19 |  |
-| **[Flexible Multi-Channel Target Speaker Extraction Using Geometry-Conditioned Spatially Selective Non-linear Filters](https://arxiv.org/abs/2605.18442v1)** | 2026-05-18 | <details><summary>Submi...</summary><p>Submitted to IWAENC2026</p></details> |
-| **[Super-resolution Multi-signal Direction-of-Arrival Estimation by Hankel-structured Sensing and Decomposition](https://arxiv.org/abs/2604.26793v2)** | 2026-05-18 |  |
 
