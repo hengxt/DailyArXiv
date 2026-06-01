@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 01, 2026
+title: Latest DoA Papers - June 02, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,9 +7,9 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v5)** | 2026-05-29 |  |
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Robust Quantum-MUSIC for DoA Estimation Using Rydberg Atomic Receiver Arrays](https://arxiv.org/abs/2605.25688v1)** | 2026-05-25 |  |
-| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v4)** | 2026-05-19 |  |
 | **[Sparse Fluid Antenna Arrays: Continuous Position Design Beyond Classical DOF Limits](https://arxiv.org/abs/2605.19455v1)** | 2026-05-19 |  |
 | **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
 | **[Hybrid Architecture Gets Fluid: A New Paradigm for Direction-of-arrival Estimation in 6G Networks](https://arxiv.org/abs/2604.13587v1)** | 2026-04-15 |  |
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Direction-Preserving MIMO Speech Enhancement Using a Neural Covariance Estimator](https://arxiv.org/abs/2604.11179v1)** | 2026-04-13 |  |
 | **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
@@ -44,7 +45,6 @@ labels: signal-processing, doa, array-processing
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
 | **[Mixture-of-Experts Framework for Field-of-View Enhanced Signal-Dependent Binauralization of Moving Talkers](https://arxiv.org/abs/2509.13548v3)** | 2025-09-25 | 5 pages, 3 figures |
-| **[GAN-Based Multi-Microphone Spatial Target Speaker Extraction](https://arxiv.org/abs/2509.17741v1)** | 2025-09-22 |  |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
+| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v5)** | 2026-05-29 |  |
 | **[Experimental Characterization of a Multifunction X-Band AESA Radar Demonstrator](https://arxiv.org/abs/2605.28434v1)** | 2026-05-27 | <details><summary>6 pag...</summary><p>6 pages, 7 figures. Accepted for publication in the Proceedings of the 2026 IEEE Radar Conference (RadarConf26)</p></details> |
 | **[Orthogonal Least Squares with Integrated Information Theoretic Criteria for Joint Number of Targets and DoA Estimation](https://arxiv.org/abs/2605.06198v2)** | 2026-05-27 | <details><summary>5 pag...</summary><p>5 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[A Lightweight Method for Multiple Signal Direction Estimation with Adaptive Notch Filters](https://arxiv.org/abs/2605.28361v1)** | 2026-05-27 | <details><summary>Origi...</summary><p>Original article language is Turkish. This author version has the English-translated version before the original Turkish version. Accepted for presentation at SİU 2026. Final Turkish version to appear in IEEE Xplore</p></details> |
 | **[Robust Quantum-MUSIC for DoA Estimation Using Rydberg Atomic Receiver Arrays](https://arxiv.org/abs/2605.25688v1)** | 2026-05-25 |  |
 | **[Scalable Fluid Antenna Systems: A New Paradigm for Array Signal Processing](https://arxiv.org/abs/2508.10831v2)** | 2026-05-23 | <details><summary>13 pa...</summary><p>13 pages, accepted by IEEE JSTSP</p></details> |
-| **[Utilizing Missed Detections in Directional Sensitivity-Based DOA Estimation](https://arxiv.org/abs/2605.23536v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Self-Calibration DOA Estimation for Movable Antenna Systems with Antenna Position Errors](https://arxiv.org/abs/2605.23140v1)** | 2026-05-22 |  |
 
