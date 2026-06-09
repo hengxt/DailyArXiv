@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 09, 2026
+title: Latest DoA Papers - June 10, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v2)** | 2026-06-07 |  |
+| **[Hessian-matching Based Weighting for Attitude Determination Using Short-Range DoA Measurements with IMU Assistance](https://arxiv.org/abs/2606.07719v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[LO-Free Joint Communication and Sensing via Inter-Antenna Cross-Correlation and Graph-Based Spatial Phase Inference](https://arxiv.org/abs/2606.01902v1)** | 2026-06-01 | <details><summary>This ...</summary><p>This paper has been accepted to PIMRC 2026</p></details> |
 | **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v5)** | 2026-05-29 |  |
 | **[Experimental Characterization of a Multifunction X-Band AESA Radar Demonstrator](https://arxiv.org/abs/2605.28434v1)** | 2026-05-27 | <details><summary>6 pag...</summary><p>6 pages, 7 figures. Accepted for publication in the Proceedings of the 2026 IEEE Radar Conference (RadarConf26)</p></details> |
 | **[Orthogonal Least Squares with Integrated Information Theoretic Criteria for Joint Number of Targets and DoA Estimation](https://arxiv.org/abs/2605.06198v2)** | 2026-05-27 | <details><summary>5 pag...</summary><p>5 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
-| **[A Lightweight Method for Multiple Signal Direction Estimation with Adaptive Notch Filters](https://arxiv.org/abs/2605.28361v1)** | 2026-05-27 | <details><summary>Origi...</summary><p>Original article language is Turkish. This author version has the English-translated version before the original Turkish version. Accepted for presentation at SİU 2026. Final Turkish version to appear in IEEE Xplore</p></details> |
-| **[Robust Quantum-MUSIC for DoA Estimation Using Rydberg Atomic Receiver Arrays](https://arxiv.org/abs/2605.25688v1)** | 2026-05-25 |  |
 
