@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 15, 2026
+title: Latest DoA Papers - June 16, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Sound Source Trajectories for Universal Sound Separation](https://arxiv.org/abs/2409.04843v3)** | 2026-06-12 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing(TASLP)</p></details> |
 | **[Gridless Full-Space DOA Estimation for STAR-RIS-Assisted Wireless Systems](https://arxiv.org/abs/2602.02893v2)** | 2026-06-09 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, journal paper</p></details> |
 | **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v2)** | 2026-06-07 |  |
 | **[Hessian-matching Based Weighting for Attitude Determination Using Short-Range DoA Measurements with IMU Assistance](https://arxiv.org/abs/2606.07719v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v5)** | 2026-05-29 |  |
 | **[Experimental Characterization of a Multifunction X-Band AESA Radar Demonstrator](https://arxiv.org/abs/2605.28434v1)** | 2026-05-27 | <details><summary>6 pag...</summary><p>6 pages, 7 figures. Accepted for publication in the Proceedings of the 2026 IEEE Radar Conference (RadarConf26)</p></details> |
-| **[Orthogonal Least Squares with Integrated Information Theoretic Criteria for Joint Number of Targets and DoA Estimation](https://arxiv.org/abs/2605.06198v2)** | 2026-05-27 | <details><summary>5 pag...</summary><p>5 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 
