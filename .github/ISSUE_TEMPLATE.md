@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 17, 2026
+title: Latest DoA Papers - June 18, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,18 +37,19 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
+| **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
 | **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Direction-Preserving MIMO Speech Enhancement Using a Neural Covariance Estimator](https://arxiv.org/abs/2604.11179v1)** | 2026-04-13 |  |
 | **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
 | **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
-| **[DOA Estimation with Lightweight Network on LLM-Aided Simulated Acoustic Scenes](https://arxiv.org/abs/2511.08012v1)** | 2025-11-11 |  |
-| **[Mixture-of-Experts Framework for Field-of-View Enhanced Signal-Dependent Binauralization of Moving Talkers](https://arxiv.org/abs/2509.13548v3)** | 2025-09-25 | 5 pages, 3 figures |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fully Bayesian Wideband Direction-of-Arrival Estimation and Detection via RJMCMC](https://arxiv.org/abs/2412.08895v2)** | 2026-06-16 |  |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
@@ -56,14 +57,13 @@ labels: signal-processing, doa, array-processing
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 | **[SoundCompass: Navigating Target Sound Extraction With Effective Directional Clue Integration In Complex Acoustic Scenes](https://arxiv.org/abs/2509.18561v3)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted to ICASSP 2026</p></details> |
-| **[Vector Signal Reconstruction Sparse and Parametric Approach of direction of arrival Using Single Vector Hydrophone](https://arxiv.org/abs/2404.15160v2)** | 2025-12-25 | <details><summary>The a...</summary><p>The authors have determined that the simulation results presented are preliminary and insufficient. Further simulation work is required to validate the conclusions. The text also requires major linguistic improvements</p></details> |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
 | **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 | **[Ambiguity-Free Broadband DOA Estimation Relying on Parameterized Time-Frequency Transform](https://arxiv.org/abs/2503.03691v1)** | 2025-03-05 | 6 figures |
-| **[Fully Bayesian Wideband Direction-of-Arrival Estimation and Detection via RJMCMC](https://arxiv.org/abs/2412.08895v1)** | 2024-12-12 |  |
 | **[Comparison of Frequency-Fusion Mechanisms for Binaural Direction-of-Arrival Estimation for Multiple Speakers](https://arxiv.org/abs/2401.07849v1)** | 2024-01-15 | <details><summary>Accep...</summary><p>Accepted for ICASSP 2024</p></details> |
 | **[Gridless DOA Estimation with Multiple Frequencies](https://arxiv.org/abs/2207.06159v2)** | 2023-02-06 | <details><summary>This ...</summary><p>This work has been accepted by IEEE Transactions on Signal Processing</p></details> |
 | **[DA-MUSIC: Data-Driven DoA Estimation via Deep Augmented MUSIC Algorithm](https://arxiv.org/abs/2109.10581v5)** | 2023-01-11 | Submitted to TVT |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joint Direction-of-Arrival and Range Estimation for Millimeter-Wave Uniform Linear Array Radar](https://arxiv.org/abs/2606.17801v1)** | 2026-06-16 | 6 pages |
+| **[Toward Quantum-Enhanced ISAC: Active-RIS-Aided Integrated Sensing and Communication with Rydberg Atomic Receivers](https://arxiv.org/abs/2606.17641v1)** | 2026-06-16 |  |
+| **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
+| **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
 | **[Geometrically Constrained Decentralized Independent Vector Analysis for Distributed Microphone Arrays](https://arxiv.org/abs/2606.15826v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[Maximum A Posteriori Direction-of-Arrival Estimation via Mixed-Integer Semidefinite Programming](https://arxiv.org/abs/2311.03501v3)** | 2026-06-13 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Published in IEEE Transactions on Signal Processing</p></details> |
 | **[Leveraging Sound Source Trajectories for Universal Sound Separation](https://arxiv.org/abs/2409.04843v3)** | 2026-06-12 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing(TASLP)</p></details> |
 | **[Gridless Full-Space DOA Estimation for STAR-RIS-Assisted Wireless Systems](https://arxiv.org/abs/2602.02893v2)** | 2026-06-09 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, journal paper</p></details> |
-| **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v2)** | 2026-06-07 |  |
-| **[Hessian-matching Based Weighting for Attitude Determination Using Short-Range DoA Measurements with IMU Assistance](https://arxiv.org/abs/2606.07719v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[LO-Free Joint Communication and Sensing via Inter-Antenna Cross-Correlation and Graph-Based Spatial Phase Inference](https://arxiv.org/abs/2606.01902v1)** | 2026-06-01 | <details><summary>This ...</summary><p>This paper has been accepted to PIMRC 2026</p></details> |
-| **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 
