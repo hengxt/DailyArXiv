@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 19, 2026
+title: Latest DoA Papers - June 22, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient DoA Estimation for Linear and Rectangular Arrays with Hybrid Architectures Using Compact DFT Codebooks](https://arxiv.org/abs/2509.03488v2)** | 2026-06-18 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v1)** | 2026-06-17 |  |
 | **[Joint Direction-of-Arrival and Range Estimation for Millimeter-Wave Uniform Linear Array Radar](https://arxiv.org/abs/2606.17801v1)** | 2026-06-16 | 6 pages |
 | **[Toward Quantum-Enhanced ISAC: Active-RIS-Aided Integrated Sensing and Communication with Rydberg Atomic Receivers](https://arxiv.org/abs/2606.17641v1)** | 2026-06-16 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
 | **[Geometrically Constrained Decentralized Independent Vector Analysis for Distributed Microphone Arrays](https://arxiv.org/abs/2606.15826v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 | **[Maximum A Posteriori Direction-of-Arrival Estimation via Mixed-Integer Semidefinite Programming](https://arxiv.org/abs/2311.03501v3)** | 2026-06-13 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Published in IEEE Transactions on Signal Processing</p></details> |
-| **[Leveraging Sound Source Trajectories for Universal Sound Separation](https://arxiv.org/abs/2409.04843v3)** | 2026-06-12 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Audio, Speech and Language Processing(TASLP)</p></details> |
 
