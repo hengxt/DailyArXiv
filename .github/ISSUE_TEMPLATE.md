@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 24, 2026
+title: Latest DoA Papers - June 25, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -25,6 +25,7 @@ labels: signal-processing, doa, array-processing
 ## Subspace Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Many RF Chains Does a Microwave Linear Analog Computer (MiLAC) Need to Match the Fully-Digital Cramér-Rao Bound?](https://arxiv.org/abs/2606.23986v1)** | 2026-06-22 | <details><summary>Submi...</summary><p>Submitting to the IEEE for possible publication</p></details> |
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[Sensing for Free: Learn to Localize More Sources than Antennas without Pilots](https://arxiv.org/abs/2506.23525v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 1 table. This paper was accepted by the IEEE Journal on Selected Areas in Communications (JSAC) on Jan. 5, 2026</p></details> |
@@ -32,7 +33,6 @@ labels: signal-processing, doa, array-processing
 | **[Spatial Signal Focusing and Noise Suppression for Direction-of-Arrival Estimation in Large-Aperture 2D Arrays under Demanding Conditions](https://arxiv.org/abs/2510.10923v1)** | 2025-10-13 |  |
 | **[Joint DOA and Attitude Sensing Based on Tri-Polarized Continuous Aperture Array](https://arxiv.org/abs/2510.02029v1)** | 2025-10-02 | 13 pages, 10 figures |
 | **[Direction of Arrival Estimation: A Tutorial Survey of Classical and Modern Methods](https://arxiv.org/abs/2508.11675v2)** | 2025-09-02 | <details><summary>DOA S...</summary><p>DOA Survey, 44 pages, Not published yet</p></details> |
-| **[Near Field Localization via AI-Aided Subspace Methods](https://arxiv.org/abs/2504.00599v2)** | 2025-06-27 | <details><summary>Under...</summary><p>Under review for publication in the IEEE</p></details> |
 
 ## Speech
 | **Title** | **Date** | **Comment** |
