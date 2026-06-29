@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 29, 2026
+title: Latest DoA Papers - June 30, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
 | **[A Robust Two-Stage Protocol for STAR-RIS-Aided ISAC Networks: Joint Beamforming and Mode Optimization](https://arxiv.org/abs/2602.16383v2)** | 2026-06-19 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 3 tables, journal paper</p></details> |
 | **[Efficient DoA Estimation for Linear and Rectangular Arrays with Hybrid Architectures Using Compact DFT Codebooks](https://arxiv.org/abs/2509.03488v2)** | 2026-06-18 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v1)** | 2026-06-17 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Toward Quantum-Enhanced ISAC: Active-RIS-Aided Integrated Sensing and Communication with Rydberg Atomic Receivers](https://arxiv.org/abs/2606.17641v1)** | 2026-06-16 |  |
 | **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
 | **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
-| **[Geometrically Constrained Decentralized Independent Vector Analysis for Distributed Microphone Arrays](https://arxiv.org/abs/2606.15826v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
 
