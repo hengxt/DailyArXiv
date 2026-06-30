@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - June 30, 2026
+title: Latest DoA Papers - July 01, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Position-Aware Target Speaker Extraction for Long-Form Multi-Party Conversations: A Diarization-Free Framework for ASR](https://arxiv.org/abs/2606.29497v1)** | 2026-06-28 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Accept by Interspeech 2026</p></details> |
 | **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
 | **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
 | **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
@@ -44,12 +45,11 @@ labels: signal-processing, doa, array-processing
 | **[Direction-Preserving MIMO Speech Enhancement Using a Neural Covariance Estimator](https://arxiv.org/abs/2604.11179v1)** | 2026-04-13 |  |
 | **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
 | **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
-| **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v1)** | 2026-06-17 |  |
+| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Position-Aware Target Speaker Extraction for Long-Form Multi-Party Conversations: A Diarization-Free Framework for ASR](https://arxiv.org/abs/2606.29497v1)** | 2026-06-28 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Accept by Interspeech 2026</p></details> |
+| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
 | **[A Robust Two-Stage Protocol for STAR-RIS-Aided ISAC Networks: Joint Beamforming and Mode Optimization](https://arxiv.org/abs/2602.16383v2)** | 2026-06-19 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 3 tables, journal paper</p></details> |
 | **[Efficient DoA Estimation for Linear and Rectangular Arrays with Hybrid Architectures Using Compact DFT Codebooks](https://arxiv.org/abs/2509.03488v2)** | 2026-06-18 |  |
-| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v1)** | 2026-06-17 |  |
 | **[Joint Direction-of-Arrival and Range Estimation for Millimeter-Wave Uniform Linear Array Radar](https://arxiv.org/abs/2606.17801v1)** | 2026-06-16 | 6 pages |
 | **[Toward Quantum-Enhanced ISAC: Active-RIS-Aided Integrated Sensing and Communication with Rydberg Atomic Receivers](https://arxiv.org/abs/2606.17641v1)** | 2026-06-16 |  |
 | **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
-| **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
 
