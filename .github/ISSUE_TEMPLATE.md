@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 02, 2026
+title: Latest DoA Papers - July 03, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
