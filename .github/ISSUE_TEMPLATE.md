@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 08, 2026
+title: Latest DoA Papers - July 09, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Beam Broadening for DoA Estimation in Dynamic and Resource-Constrained DFRC Systems](https://arxiv.org/abs/2412.16661v4)** | 2026-07-07 | <details><summary>This ...</summary><p>This work was accepted and presented at the IEEE Radar Conference (RadarConf), May 2026</p></details> |
 | **[Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices](https://arxiv.org/abs/2607.02971v1)** | 2026-07-03 | 5 pages, 2 figures |
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
 | **[Von Mises Based Uncertainty Quantification for Closely Spaced Automotive Radar Targets](https://arxiv.org/abs/2606.31473v1)** | 2026-06-30 | 12 pages, 5 figures |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Position-Aware Target Speaker Extraction for Long-Form Multi-Party Conversations: A Diarization-Free Framework for ASR](https://arxiv.org/abs/2606.29497v1)** | 2026-06-28 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Accept by Interspeech 2026</p></details> |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](https://arxiv.org/abs/2606.27751v1)** | 2026-06-26 | <details><summary>Techn...</summary><p>Technical Report (KU Leuven - UnivAQ)</p></details> |
-| **[A Robust Two-Stage Protocol for STAR-RIS-Aided ISAC Networks: Joint Beamforming and Mode Optimization](https://arxiv.org/abs/2602.16383v2)** | 2026-06-19 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 3 tables, journal paper</p></details> |
 
