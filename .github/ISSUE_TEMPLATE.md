@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 15, 2026
+title: Latest DoA Papers - July 16, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DOA Estimation from One-Bit Magnitude-Only Measurements via Sign-Consistency Optimization](https://arxiv.org/abs/2607.12491v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted for possible publication</p></details> |
 | **[An X-Band Monopulse Direction-Finding Receiver Based on a Rat-Race Comparator and a $2\times2$ Antipodal Vivaldi Array](https://arxiv.org/abs/2607.10692v1)** | 2026-07-12 |  |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices](https://arxiv.org/abs/2607.02971v1)** | 2026-07-03 | 5 pages, 2 figures |
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
 | **[Von Mises Based Uncertainty Quantification for Closely Spaced Automotive Radar Targets](https://arxiv.org/abs/2606.31473v1)** | 2026-06-30 | 12 pages, 5 figures |
-| **[Utilizing Missed Detections in Directional Sensitivity-Based DOA Estimation](https://arxiv.org/abs/2605.23536v2)** | 2026-06-30 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Sensors Journal</p></details> |
 
