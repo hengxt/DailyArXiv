@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 16, 2026
+title: Latest DoA Papers - July 17, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parametric Diffraction-Based Object Sensing: Modeling, Estimation, and Fundamental Limits](https://arxiv.org/abs/2607.13417v1)** | 2026-07-15 |  |
 | **[DOA Estimation from One-Bit Magnitude-Only Measurements via Sign-Consistency Optimization](https://arxiv.org/abs/2607.12491v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted for possible publication</p></details> |
 | **[An X-Band Monopulse Direction-Finding Receiver Based on a Rat-Race Comparator and a $2\times2$ Antipodal Vivaldi Array](https://arxiv.org/abs/2607.10692v1)** | 2026-07-12 |  |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Adaptive Beam Broadening for DoA Estimation in Dynamic and Resource-Constrained DFRC Systems](https://arxiv.org/abs/2412.16661v4)** | 2026-07-07 | <details><summary>This ...</summary><p>This work was accepted and presented at the IEEE Radar Conference (RadarConf), May 2026</p></details> |
 | **[Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices](https://arxiv.org/abs/2607.02971v1)** | 2026-07-03 | 5 pages, 2 figures |
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
-| **[Von Mises Based Uncertainty Quantification for Closely Spaced Automotive Radar Targets](https://arxiv.org/abs/2606.31473v1)** | 2026-06-30 | 12 pages, 5 figures |
 
