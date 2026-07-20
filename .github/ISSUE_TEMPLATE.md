@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 20, 2026
+title: Latest DoA Papers - July 21, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,12 +49,12 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
-| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v3)** | 2026-03-27 |  |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[Spatial Angular Pseudo-Derivative Search Algorithm: A Single-Snapshot Super-Resolution Sparse DOA Scheme for Real-Time Automotive Radar](https://arxiv.org/abs/2602.04169v4)** | 2026-07-16 |  |
 | **[Parametric Diffraction-Based Object Sensing: Modeling, Estimation, and Fundamental Limits](https://arxiv.org/abs/2607.13417v1)** | 2026-07-15 |  |
 | **[DOA Estimation from One-Bit Magnitude-Only Measurements via Sign-Consistency Optimization](https://arxiv.org/abs/2607.12491v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted for possible publication</p></details> |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[Adaptive Beam Broadening for DoA Estimation in Dynamic and Resource-Constrained DFRC Systems](https://arxiv.org/abs/2412.16661v4)** | 2026-07-07 | <details><summary>This ...</summary><p>This work was accepted and presented at the IEEE Radar Conference (RadarConf), May 2026</p></details> |
-| **[Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices](https://arxiv.org/abs/2607.02971v1)** | 2026-07-03 | 5 pages, 2 figures |
 
