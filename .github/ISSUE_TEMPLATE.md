@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 23, 2026
+title: Latest DoA Papers - July 24, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Circulant ADMM-Net for Fast High-resolution DoA Estimation](https://arxiv.org/abs/2502.19076v2)** | 2026-07-21 | <details><summary>Updat...</summary><p>Updated references, fixed typos, and some figures were updated with a new baseline</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[Spatial Angular Pseudo-Derivative Search Algorithm: A Single-Snapshot Super-Resolution Sparse DOA Scheme for Real-Time Automotive Radar](https://arxiv.org/abs/2602.04169v4)** | 2026-07-16 |  |
 | **[Parametric Diffraction-Based Object Sensing: Modeling, Estimation, and Fundamental Limits](https://arxiv.org/abs/2607.13417v1)** | 2026-07-15 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[An X-Band Monopulse Direction-Finding Receiver Based on a Rat-Race Comparator and a $2\times2$ Antipodal Vivaldi Array](https://arxiv.org/abs/2607.10692v1)** | 2026-07-12 |  |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
-| **[Adaptive Beam Broadening for DoA Estimation in Dynamic and Resource-Constrained DFRC Systems](https://arxiv.org/abs/2412.16661v4)** | 2026-07-07 | <details><summary>This ...</summary><p>This work was accepted and presented at the IEEE Radar Conference (RadarConf), May 2026</p></details> |
 
