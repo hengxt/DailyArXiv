@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 28, 2026
+title: Latest DoA Papers - July 29, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,6 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mind the Microphone Gap: Benchmarking Array Upsampling Strategies for Latent Acoustic Mapping](https://arxiv.org/abs/2607.24463v1)** | 2026-07-27 | IWAENC 2026 |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
-| **[A framework for diffuseness evaluation using a tight-frame microphone array configuration](https://arxiv.org/abs/2510.22183v3)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages including 16 files: This version has been substantially revised in response to reviewers' comments, with clarified theoretical assumptions and extended comparative evaluations</p></details> |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Angular Pseudo-Derivative Search Algorithm: A Real-Time Single-Snapshot Super-Resolution Sparse DOA Scheme for Automotive Radar](https://arxiv.org/abs/2602.04169v5)** | 2026-07-27 |  |
+| **[Electromagnetic Neural Network for Direction-of-Arrival Estimation](https://arxiv.org/abs/2607.23021v1)** | 2026-07-25 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 4 tables, accepted by IEEE TWC</p></details> |
 | **[Hankel and Toeplitz Rank-1 Decomposition of Arbitrary Matrices with Applications to Signal Direction-of-Arrival Estimation](https://arxiv.org/abs/2604.26787v2)** | 2026-07-22 |  |
 | **[Circulant ADMM-Net for Fast High-resolution DoA Estimation](https://arxiv.org/abs/2502.19076v2)** | 2026-07-21 | <details><summary>Updat...</summary><p>Updated references, fixed typos, and some figures were updated with a new baseline</p></details> |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
-| **[Spatial Angular Pseudo-Derivative Search Algorithm: A Single-Snapshot Super-Resolution Sparse DOA Scheme for Real-Time Automotive Radar](https://arxiv.org/abs/2602.04169v4)** | 2026-07-16 |  |
 | **[Parametric Diffraction-Based Object Sensing: Modeling, Estimation, and Fundamental Limits](https://arxiv.org/abs/2607.13417v1)** | 2026-07-15 |  |
 | **[DOA Estimation from One-Bit Magnitude-Only Measurements via Sign-Consistency Optimization](https://arxiv.org/abs/2607.12491v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted for possible publication</p></details> |
 | **[An X-Band Monopulse Direction-Finding Receiver Based on a Rat-Race Comparator and a $2\times2$ Antipodal Vivaldi Array](https://arxiv.org/abs/2607.10692v1)** | 2026-07-12 |  |
-| **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 
