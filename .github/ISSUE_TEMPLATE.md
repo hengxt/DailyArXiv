@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - July 31, 2026
+title: Latest DoA Papers - August 03, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[V-RIS: Virtual-Aperture DoA Estimation with Sparse RIS](https://arxiv.org/abs/2607.27716v1)** | 2026-07-30 |  |
 | **[Spatial Angular Pseudo-Derivative Search Algorithm: A Real-Time Single-Snapshot Super-Resolution Sparse DOA Scheme for Automotive Radar](https://arxiv.org/abs/2602.04169v5)** | 2026-07-27 |  |
 | **[Electromagnetic Neural Network for Direction-of-Arrival Estimation](https://arxiv.org/abs/2607.23021v1)** | 2026-07-25 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 4 tables, accepted by IEEE TWC</p></details> |
 | **[Hankel and Toeplitz Rank-1 Decomposition of Arbitrary Matrices with Applications to Signal Direction-of-Arrival Estimation](https://arxiv.org/abs/2604.26787v2)** | 2026-07-22 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[Parametric Diffraction-Based Object Sensing: Modeling, Estimation, and Fundamental Limits](https://arxiv.org/abs/2607.13417v1)** | 2026-07-15 |  |
 | **[DOA Estimation from One-Bit Magnitude-Only Measurements via Sign-Consistency Optimization](https://arxiv.org/abs/2607.12491v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 9 figures. Submitted for possible publication</p></details> |
-| **[An X-Band Monopulse Direction-Finding Receiver Based on a Rat-Race Comparator and a $2\times2$ Antipodal Vivaldi Array](https://arxiv.org/abs/2607.10692v1)** | 2026-07-12 |  |
 
