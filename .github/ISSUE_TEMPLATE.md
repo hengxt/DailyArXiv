@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - August 11, 2026
+title: Latest DoA Papers - August 12, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Array-Generic Direction-of-Arrival Estimation Exploiting Array Transfer Functions](https://arxiv.org/abs/2608.09425v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted for publication in IWAENC 2026</p></details> |
+| **[Multi-Source Position and Direction-of-Arrival Estimation Based on Euclidean Distance Matrices](https://arxiv.org/abs/2510.02556v3)** | 2026-08-10 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
+| **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v3)** | 2026-08-09 |  |
 | **[Tensor-Based Joint Pitch and DOA Estimation](https://arxiv.org/abs/2607.29003v1)** | 2026-07-31 |  |
 | **[V-RIS: Virtual-Aperture DoA Estimation with Sparse RIS](https://arxiv.org/abs/2607.27716v1)** | 2026-07-30 |  |
 | **[Spatial Angular Pseudo-Derivative Search Algorithm: A Real-Time Single-Snapshot Super-Resolution Sparse DOA Scheme for Automotive Radar](https://arxiv.org/abs/2602.04169v5)** | 2026-07-27 |  |
 | **[Electromagnetic Neural Network for Direction-of-Arrival Estimation](https://arxiv.org/abs/2607.23021v1)** | 2026-07-25 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 4 tables, accepted by IEEE TWC</p></details> |
 | **[Hankel and Toeplitz Rank-1 Decomposition of Arbitrary Matrices with Applications to Signal Direction-of-Arrival Estimation](https://arxiv.org/abs/2604.26787v2)** | 2026-07-22 |  |
-| **[Circulant ADMM-Net for Fast High-resolution DoA Estimation](https://arxiv.org/abs/2502.19076v2)** | 2026-07-21 | <details><summary>Updat...</summary><p>Updated references, fixed typos, and some figures were updated with a new baseline</p></details> |
-| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
-| **[Parametric Diffraction-Based Object Sensing: Modeling, Estimation, and Fundamental Limits](https://arxiv.org/abs/2607.13417v1)** | 2026-07-15 |  |
 
