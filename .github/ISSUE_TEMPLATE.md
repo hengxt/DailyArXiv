@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - August 12, 2026
+title: Latest DoA Papers - August 13, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
 | **[Position-Aware Target Speaker Extraction for Long-Form Multi-Party Conversations: A Diarization-Free Framework for ASR](https://arxiv.org/abs/2606.29497v1)** | 2026-06-28 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Accept by Interspeech 2026</p></details> |
 | **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
 | **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
@@ -44,7 +45,6 @@ labels: signal-processing, doa, array-processing
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Direction-Preserving MIMO Speech Enhancement Using a Neural Covariance Estimator](https://arxiv.org/abs/2604.11179v1)** | 2026-04-13 |  |
 | **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
-| **[HRTF-guided Binaural Target Speaker Extraction with Real-World Validation](https://arxiv.org/abs/2603.16668v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
 | **[Neural Array-Generic Direction-of-Arrival Estimation Exploiting Array Transfer Functions](https://arxiv.org/abs/2608.09425v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted for publication in IWAENC 2026</p></details> |
 | **[Multi-Source Position and Direction-of-Arrival Estimation Based on Euclidean Distance Matrices](https://arxiv.org/abs/2510.02556v3)** | 2026-08-10 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 | **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v3)** | 2026-08-09 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[V-RIS: Virtual-Aperture DoA Estimation with Sparse RIS](https://arxiv.org/abs/2607.27716v1)** | 2026-07-30 |  |
 | **[Spatial Angular Pseudo-Derivative Search Algorithm: A Real-Time Single-Snapshot Super-Resolution Sparse DOA Scheme for Automotive Radar](https://arxiv.org/abs/2602.04169v5)** | 2026-07-27 |  |
 | **[Electromagnetic Neural Network for Direction-of-Arrival Estimation](https://arxiv.org/abs/2607.23021v1)** | 2026-07-25 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 4 tables, accepted by IEEE TWC</p></details> |
-| **[Hankel and Toeplitz Rank-1 Decomposition of Arbitrary Matrices with Applications to Signal Direction-of-Arrival Estimation](https://arxiv.org/abs/2604.26787v2)** | 2026-07-22 |  |
 
