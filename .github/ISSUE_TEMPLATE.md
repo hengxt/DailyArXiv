@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - August 13, 2026
+title: Latest DoA Papers - August 14, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,6 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lightweight Single-Antenna Direction-of-Arrival Estimation for Curvilinear Trajectories in Mobile Embedded Systems](https://arxiv.org/abs/2608.12029v1)** | 2026-08-12 |  |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v5)** | 2026-05-29 |  |
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
@@ -14,7 +15,6 @@ labels: signal-processing, doa, array-processing
 | **[Sparse Fluid Antenna Arrays: Continuous Position Design Beyond Classical DOF Limits](https://arxiv.org/abs/2605.19455v1)** | 2026-05-19 |  |
 | **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
 | **[Hybrid Architecture Gets Fluid: A New Paradigm for Direction-of-arrival Estimation in 6G Networks](https://arxiv.org/abs/2604.13587v1)** | 2026-04-15 |  |
-| **[Near-Field NLOS Localization via Position-Unknown HRIS:From Self-Localization to Target Positioning](https://arxiv.org/abs/2603.17297v1)** | 2026-03-18 | 14 pages, 14 figures |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lightweight Single-Antenna Direction-of-Arrival Estimation for Curvilinear Trajectories in Mobile Embedded Systems](https://arxiv.org/abs/2608.12029v1)** | 2026-08-12 |  |
+| **[Small Language Model enabled Autonomous agent for Language-Conditioned Cognitive Radar](https://arxiv.org/abs/2608.11596v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at MLSP 2026, ATL, USA</p></details> |
 | **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
 | **[Neural Array-Generic Direction-of-Arrival Estimation Exploiting Array Transfer Functions](https://arxiv.org/abs/2608.09425v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted for publication in IWAENC 2026</p></details> |
 | **[Multi-Source Position and Direction-of-Arrival Estimation Based on Euclidean Distance Matrices](https://arxiv.org/abs/2510.02556v3)** | 2026-08-10 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 | **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v3)** | 2026-08-09 |  |
 | **[Tensor-Based Joint Pitch and DOA Estimation](https://arxiv.org/abs/2607.29003v1)** | 2026-07-31 |  |
 | **[V-RIS: Virtual-Aperture DoA Estimation with Sparse RIS](https://arxiv.org/abs/2607.27716v1)** | 2026-07-30 |  |
-| **[Spatial Angular Pseudo-Derivative Search Algorithm: A Real-Time Single-Snapshot Super-Resolution Sparse DOA Scheme for Automotive Radar](https://arxiv.org/abs/2602.04169v5)** | 2026-07-27 |  |
-| **[Electromagnetic Neural Network for Direction-of-Arrival Estimation](https://arxiv.org/abs/2607.23021v1)** | 2026-07-25 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 4 tables, accepted by IEEE TWC</p></details> |
 
