@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - August 25, 2026
+title: Latest DoA Papers - August 26, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deterministic Cramer-Rao Bounds for Coherent Direction-of-Arrival Estimation: Rank Information Versus Coherence Structure](https://arxiv.org/abs/2608.22250v1)** | 2026-08-23 |  |
+| **[Self-Calibration DOA Estimation for Movable Antenna Systems with Antenna Position Errors](https://arxiv.org/abs/2605.23140v2)** | 2026-08-23 |  |
 | **[SR-TL1: A Square-Root TL1-Norm Framework for Robust SMV DoA Estimation under Highly-Coherent Dictionaries](https://arxiv.org/abs/2608.20943v1)** | 2026-08-21 |  |
 | **[Deterministic Maximum Likelihood Direction Finding in the Mixture Noise of Gaussian and Spherically Invariant Components](https://arxiv.org/abs/2608.13294v1)** | 2026-08-13 |  |
 | **[Lightweight Single-Antenna Direction-of-Arrival Estimation for Curvilinear Trajectories in Mobile Embedded Systems](https://arxiv.org/abs/2608.12029v1)** | 2026-08-12 |  |
 | **[Small Language Model enabled Autonomous agent for Language-Conditioned Cognitive Radar](https://arxiv.org/abs/2608.11596v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at MLSP 2026, ATL, USA</p></details> |
 | **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
 | **[Neural Array-Generic Direction-of-Arrival Estimation Exploiting Array Transfer Functions](https://arxiv.org/abs/2608.09425v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted for publication in IWAENC 2026</p></details> |
-| **[Multi-Source Position and Direction-of-Arrival Estimation Based on Euclidean Distance Matrices](https://arxiv.org/abs/2510.02556v3)** | 2026-08-10 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
-| **[Rotatable Antenna-Enhanced Wireless Sensing with Uniform Sparse Array via Tensor Decomposition](https://arxiv.org/abs/2605.21895v3)** | 2026-08-09 |  |
 
