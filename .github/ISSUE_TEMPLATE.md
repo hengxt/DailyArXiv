@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - September 01, 2026
+title: Latest DoA Papers - September 02, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -25,14 +25,14 @@ labels: signal-processing, doa, array-processing
 ## Subspace Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
+| **[Grassmannian-Coded Beamforming for mmWave Channel Sensing with Unknown Complex Path Gain](https://arxiv.org/abs/2604.19904v2)** | 2026-08-30 | <details><summary>Subst...</summary><p>Substantially revised version. Originally submitted to the IEEE JSAIT special issue "Theoretical Foundations for 6G-and-Beyond Wireless Networks" on Oct. 1, 2025. Following a major-revision decision, the original submission was withdrawn due to the short revision cycle; the revised manuscript has now been resubmitted</p></details> |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[How Many RF Chains Does a Microwave Linear Analog Computer (MiLAC) Need to Match the Fully-Digital Cramér-Rao Bound?](https://arxiv.org/abs/2606.23986v1)** | 2026-06-22 | <details><summary>Submi...</summary><p>Submitting to the IEEE for possible publication</p></details> |
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 | **[Sensing for Free: Learn to Localize More Sources than Antennas without Pilots](https://arxiv.org/abs/2506.23525v2)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 14 figures, 1 table. This paper was accepted by the IEEE Journal on Selected Areas in Communications (JSAC) on Jan. 5, 2026</p></details> |
 | **[Efficient Decoders for Sensing Subspace Code](https://arxiv.org/abs/2512.05028v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This paper was accepted for presentation at the 59th Annual Asilomar Conference on Signals, Systems, and Computers</p></details> |
-| **[Spatial Signal Focusing and Noise Suppression for Direction-of-Arrival Estimation in Large-Aperture 2D Arrays under Demanding Conditions](https://arxiv.org/abs/2510.10923v1)** | 2025-10-13 |  |
-| **[Joint DOA and Attitude Sensing Based on Tri-Polarized Continuous Aperture Array](https://arxiv.org/abs/2510.02029v1)** | 2025-10-02 | 13 pages, 10 figures |
 
 ## Speech
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
 | **[Mind the Microphone Gap: Benchmarking Array Upsampling Strategies for Latent Acoustic Mapping](https://arxiv.org/abs/2607.24463v1)** | 2026-07-27 | IWAENC 2026 |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
-| **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
+| **[Grassmannian-Coded Beamforming for mmWave Channel Sensing with Unknown Complex Path Gain](https://arxiv.org/abs/2604.19904v2)** | 2026-08-30 | <details><summary>Subst...</summary><p>Substantially revised version. Originally submitted to the IEEE JSAIT special issue "Theoretical Foundations for 6G-and-Beyond Wireless Networks" on Oct. 1, 2025. Following a major-revision decision, the original submission was withdrawn due to the short revision cycle; the revised manuscript has now been resubmitted</p></details> |
 | **[Compressive Toeplitz Covariance Estimation From Few-Bit Quantized Measurements With Applications to DOA Estimation](https://arxiv.org/abs/2512.22527v2)** | 2026-08-27 |  |
 | **[SR-TL1: A Square-Root TL1-Norm Framework for Robust SMV DoA Estimation under Highly-Coherent Dictionaries](https://arxiv.org/abs/2608.20943v2)** | 2026-08-25 |  |
 | **[Deterministic Cramer-Rao Bounds for Coherent Direction-of-Arrival Estimation: Rank Information Versus Coherence Structure](https://arxiv.org/abs/2608.22250v1)** | 2026-08-23 |  |
 | **[Self-Calibration DOA Estimation for Movable Antenna Systems with Antenna Position Errors](https://arxiv.org/abs/2605.23140v2)** | 2026-08-23 |  |
 | **[Deterministic Maximum Likelihood Direction Finding in the Mixture Noise of Gaussian and Spherically Invariant Components](https://arxiv.org/abs/2608.13294v1)** | 2026-08-13 |  |
 | **[Lightweight Single-Antenna Direction-of-Arrival Estimation for Curvilinear Trajectories in Mobile Embedded Systems](https://arxiv.org/abs/2608.12029v1)** | 2026-08-12 |  |
-| **[Small Language Model enabled Autonomous agent for Language-Conditioned Cognitive Radar](https://arxiv.org/abs/2608.11596v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at MLSP 2026, ATL, USA</p></details> |
-| **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
 
