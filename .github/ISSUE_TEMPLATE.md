@@ -1,11 +1,20 @@
 ---
-title: Latest DoA Papers - September 10, 2026
+title: Latest DoA Papers - September 11, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
 
 ## MUSIC Array
-No new papers found.
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Reconfiguring Sparse Apertures: Partial-Mobility Planar FAS for 2-D DOA Estimation](https://arxiv.org/abs/2609.06375v1)** | 2026-09-06 | 14 figures, 2 tables |
+| **[Lightweight Single-Antenna Direction-of-Arrival Estimation for Curvilinear Trajectories in Mobile Embedded Systems](https://arxiv.org/abs/2608.12029v1)** | 2026-08-12 |  |
+| **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
+| **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v5)** | 2026-05-29 |  |
+| **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Robust Quantum-MUSIC for DoA Estimation Using Rydberg Atomic Receiver Arrays](https://arxiv.org/abs/2605.25688v1)** | 2026-05-25 |  |
+| **[Sparse Fluid Antenna Arrays: Continuous Position Design Beyond Classical DOF Limits](https://arxiv.org/abs/2605.19455v1)** | 2026-05-19 |  |
+| **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
