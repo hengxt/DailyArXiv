@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - September 16, 2026
+title: Latest DoA Papers - September 17, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -25,6 +25,7 @@ labels: signal-processing, doa, array-processing
 ## Subspace Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
 | **[Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)](https://arxiv.org/abs/2609.14511v1)** | 2026-09-13 |  |
 | **[Robust Multi-Source DoA Estimation under Weather-Induced Distortion: Structured Covariance Methods and Performance Bounds](https://arxiv.org/abs/2609.07484v1)** | 2026-09-07 |  |
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
@@ -32,7 +33,6 @@ labels: signal-processing, doa, array-processing
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[How Many RF Chains Does a Microwave Linear Analog Computer (MiLAC) Need to Match the Fully-Digital Cramér-Rao Bound?](https://arxiv.org/abs/2606.23986v1)** | 2026-06-22 | <details><summary>Submi...</summary><p>Submitting to the IEEE for possible publication</p></details> |
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Interpretable Binaural Deep Beamforming Guided by Time-Varying Relative Transfer Function](https://arxiv.org/abs/2511.10168v2)** | 2026-02-17 |  |
 
 ## Speech
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
+| **[Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices](https://arxiv.org/abs/2607.02971v2)** | 2026-09-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Published in IEEE Wireless Communications Letters</p></details> |
 | **[Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)](https://arxiv.org/abs/2609.14511v1)** | 2026-09-13 |  |
 | **[SR-TL1: A Square-Root TL1-Norm Framework for Robust SMV DoA Estimation under Highly-Coherent Dictionaries](https://arxiv.org/abs/2608.20943v3)** | 2026-09-08 |  |
 | **[BeamFocusNet: Beamforming-based Explicit Spatial Signal Focusing for Robust DoA Estimation under Low-SNR and Single-Snapshot Conditions](https://arxiv.org/abs/2609.08187v1)** | 2026-09-08 |  |
 | **[Robust Multi-Source DoA Estimation under Weather-Induced Distortion: Structured Covariance Methods and Performance Bounds](https://arxiv.org/abs/2609.07484v1)** | 2026-09-07 |  |
 | **[Reconfiguring Sparse Apertures: Partial-Mobility Planar FAS for 2-D DOA Estimation](https://arxiv.org/abs/2609.06375v1)** | 2026-09-06 | 14 figures, 2 tables |
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
-| **[Grassmannian-Coded Beamforming for mmWave Channel Sensing with Unknown Complex Path Gain](https://arxiv.org/abs/2604.19904v2)** | 2026-08-30 | <details><summary>Subst...</summary><p>Substantially revised version. Originally submitted to the IEEE JSAIT special issue "Theoretical Foundations for 6G-and-Beyond Wireless Networks" on Oct. 1, 2025. Following a major-revision decision, the original submission was withdrawn due to the short revision cycle; the revised manuscript has now been resubmitted</p></details> |
-| **[Compressive Toeplitz Covariance Estimation From Few-Bit Quantized Measurements With Applications to DOA Estimation](https://arxiv.org/abs/2512.22527v2)** | 2026-08-27 |  |
 
