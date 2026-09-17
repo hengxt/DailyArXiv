@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - September 17, 2026
+title: Latest DoA Papers - September 18, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,6 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Reconfiguring Sparse Apertures: Partial-Mobility Planar FAS for 2-D DOA Estimation](https://arxiv.org/abs/2609.06375v1)** | 2026-09-06 | 14 figures, 2 tables |
 | **[Lightweight Single-Antenna Direction-of-Arrival Estimation for Curvilinear Trajectories in Mobile Embedded Systems](https://arxiv.org/abs/2608.12029v1)** | 2026-08-12 |  |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
@@ -14,7 +15,6 @@ labels: signal-processing, doa, array-processing
 | **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Robust Quantum-MUSIC for DoA Estimation Using Rydberg Atomic Receiver Arrays](https://arxiv.org/abs/2605.25688v1)** | 2026-05-25 |  |
 | **[Sparse Fluid Antenna Arrays: Continuous Position Design Beyond Classical DOF Limits](https://arxiv.org/abs/2605.19455v1)** | 2026-05-19 |  |
-| **[Sensing-Assisted Channel Estimation for Flexible-Antenna Systems: A Unified Framework](https://arxiv.org/abs/2604.27626v1)** | 2026-04-30 |  |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
@@ -25,6 +25,7 @@ labels: signal-processing, doa, array-processing
 ## Subspace Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
 | **[Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)](https://arxiv.org/abs/2609.14511v1)** | 2026-09-13 |  |
 | **[Robust Multi-Source DoA Estimation under Weather-Induced Distortion: Structured Covariance Methods and Performance Bounds](https://arxiv.org/abs/2609.07484v1)** | 2026-09-07 |  |
@@ -32,7 +33,6 @@ labels: signal-processing, doa, array-processing
 | **[Grassmannian-Coded Beamforming for mmWave Channel Sensing with Unknown Complex Path Gain](https://arxiv.org/abs/2604.19904v2)** | 2026-08-30 | <details><summary>Subst...</summary><p>Substantially revised version. Originally submitted to the IEEE JSAIT special issue "Theoretical Foundations for 6G-and-Beyond Wireless Networks" on Oct. 1, 2025. Following a major-revision decision, the original submission was withdrawn due to the short revision cycle; the revised manuscript has now been resubmitted</p></details> |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[How Many RF Chains Does a Microwave Linear Analog Computer (MiLAC) Need to Match the Fully-Digital Cramér-Rao Bound?](https://arxiv.org/abs/2606.23986v1)** | 2026-06-22 | <details><summary>Submi...</summary><p>Submitting to the IEEE for possible publication</p></details> |
-| **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Speech
 | **Title** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
 | **[Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices](https://arxiv.org/abs/2607.02971v2)** | 2026-09-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Published in IEEE Wireless Communications Letters</p></details> |
 | **[Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)](https://arxiv.org/abs/2609.14511v1)** | 2026-09-13 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[BeamFocusNet: Beamforming-based Explicit Spatial Signal Focusing for Robust DoA Estimation under Low-SNR and Single-Snapshot Conditions](https://arxiv.org/abs/2609.08187v1)** | 2026-09-08 |  |
 | **[Robust Multi-Source DoA Estimation under Weather-Induced Distortion: Structured Covariance Methods and Performance Bounds](https://arxiv.org/abs/2609.07484v1)** | 2026-09-07 |  |
 | **[Reconfiguring Sparse Apertures: Partial-Mobility Planar FAS for 2-D DOA Estimation](https://arxiv.org/abs/2609.06375v1)** | 2026-09-06 | 14 figures, 2 tables |
-| **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
 
