@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - September 22, 2026
+title: Latest DoA Papers - September 23, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrated Sensing and Communication System Based on Radio Frequency Resonance Beam](https://arxiv.org/abs/2501.18878v3)** | 2026-09-20 | <details><summary>This ...</summary><p>This version has raised numerous concerns from the reviewers and requires substantial revision</p></details> |
+| **[EquiSELD: Efficient training of equivariant sound event localization and detection networks](https://arxiv.org/abs/2609.23156v1)** | 2026-09-19 |  |
 | **[The AECM Algorithm for Deterministic Maximum Likelihood Direction Finding in the Presence of Gaussian Mixture Noise](https://arxiv.org/abs/2605.02309v2)** | 2026-09-17 |  |
 | **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
 | **[Physics-Informed Direction-of-Arrival Estimation Over Distributed Edge Devices](https://arxiv.org/abs/2607.02971v2)** | 2026-09-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Published in IEEE Wireless Communications Letters</p></details> |
 | **[Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)](https://arxiv.org/abs/2609.14511v1)** | 2026-09-13 |  |
 | **[SR-TL1: A Square-Root TL1-Norm Framework for Robust SMV DoA Estimation under Highly-Coherent Dictionaries](https://arxiv.org/abs/2608.20943v3)** | 2026-09-08 |  |
-| **[BeamFocusNet: Beamforming-based Explicit Spatial Signal Focusing for Robust DoA Estimation under Low-SNR and Single-Snapshot Conditions](https://arxiv.org/abs/2609.08187v1)** | 2026-09-08 |  |
-| **[Robust Multi-Source DoA Estimation under Weather-Induced Distortion: Structured Covariance Methods and Performance Bounds](https://arxiv.org/abs/2609.07484v1)** | 2026-09-07 |  |
 
