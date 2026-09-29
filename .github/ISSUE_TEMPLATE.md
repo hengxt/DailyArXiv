@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - September 29, 2026
+title: Latest DoA Papers - September 30, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 | **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
 | **[Position-Aware Target Speaker Extraction for Long-Form Multi-Party Conversations: A Diarization-Free Framework for ASR](https://arxiv.org/abs/2606.29497v1)** | 2026-06-28 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Accept by Interspeech 2026</p></details> |
 | **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
@@ -44,19 +45,18 @@ labels: signal-processing, doa, array-processing
 | **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 | **[Direction-Preserving MIMO Speech Enhancement Using a Neural Covariance Estimator](https://arxiv.org/abs/2604.11179v1)** | 2026-04-13 |  |
-| **[Reverberation-Robust Localization of Speakers Using Distinct Speech Onsets and Multi-channel Cross-Correlations](https://arxiv.org/abs/2604.01524v1)** | 2026-04-02 |  |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
+| **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
 | **[Mind the Microphone Gap: Benchmarking Array Upsampling Strategies for Latent Acoustic Mapping](https://arxiv.org/abs/2607.24463v1)** | 2026-07-27 | IWAENC 2026 |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 | **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
 | **[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](https://arxiv.org/abs/2602.18527v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
-| **[Wave Tank Experiment for Sea State Monitoring with Distributed Acoustic Sensing](https://arxiv.org/abs/2604.24882v1)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented in WindEurope Annual Event 2026</p></details> |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
+| **[An Efficient Parametric Codec for Low-Bitrate First-Order Ambisonics](https://arxiv.org/abs/2609.33554v1)** | 2026-09-27 |  |
+| **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 | **[Generative Large-Array Emulation for DOA Estimation in MIMO Radar via Conditional Diffusion](https://arxiv.org/abs/2609.30562v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP 2027</p></details> |
 | **[Echo Detection in Spatial Room Impulse Responses Measured with Spherical Microphone Arrays Using the Herglotz Wavefunction](https://arxiv.org/abs/2609.28068v1)** | 2026-09-23 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 4 tables</p></details> |
 | **[Circulant ADMM-Net for Fast High-resolution DoA Estimation](https://arxiv.org/abs/2502.19076v3)** | 2026-09-22 | fixed typos |
 | **[Integrated Sensing and Communication System Based on Radio Frequency Resonance Beam](https://arxiv.org/abs/2501.18878v3)** | 2026-09-20 | <details><summary>This ...</summary><p>This version has raised numerous concerns from the reviewers and requires substantial revision</p></details> |
 | **[EquiSELD: Efficient training of equivariant sound event localization and detection networks](https://arxiv.org/abs/2609.23156v1)** | 2026-09-19 |  |
-| **[The AECM Algorithm for Deterministic Maximum Likelihood Direction Finding in the Presence of Gaussian Mixture Noise](https://arxiv.org/abs/2605.02309v2)** | 2026-09-17 |  |
-| **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
-| **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
 
