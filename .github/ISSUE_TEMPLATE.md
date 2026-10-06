@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 06, 2026
+title: Latest DoA Papers - October 07, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Goal-Oriented Wave Computing for Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.06839v1)** | 2026-10-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables</p></details> |
 | **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
 | **[An Efficient Parametric Codec for Low-Bitrate First-Order Ambisonics](https://arxiv.org/abs/2609.33554v1)** | 2026-09-27 |  |
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Echo Detection in Spatial Room Impulse Responses Measured with Spherical Microphone Arrays Using the Herglotz Wavefunction](https://arxiv.org/abs/2609.28068v1)** | 2026-09-23 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 4 tables</p></details> |
 | **[Circulant ADMM-Net for Fast High-resolution DoA Estimation](https://arxiv.org/abs/2502.19076v3)** | 2026-09-22 | fixed typos |
 | **[Integrated Sensing and Communication System Based on Radio Frequency Resonance Beam](https://arxiv.org/abs/2501.18878v3)** | 2026-09-20 | <details><summary>This ...</summary><p>This version has raised numerous concerns from the reviewers and requires substantial revision</p></details> |
-| **[EquiSELD: Efficient training of equivariant sound event localization and detection networks](https://arxiv.org/abs/2609.23156v1)** | 2026-09-19 |  |
 
