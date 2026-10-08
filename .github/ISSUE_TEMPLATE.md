@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 08, 2026
+title: Latest DoA Papers - October 09, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -25,6 +25,7 @@ labels: signal-processing, doa, array-processing
 ## Subspace Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays](https://arxiv.org/abs/2406.16041v2)** | 2026-10-07 | <details><summary>This ...</summary><p>This work has been submitted to the Signal Processing Open for possible publication</p></details> |
 | **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
 | **[Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)](https://arxiv.org/abs/2609.14511v1)** | 2026-09-13 |  |
@@ -32,7 +33,6 @@ labels: signal-processing, doa, array-processing
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
 | **[Grassmannian-Coded Beamforming for mmWave Channel Sensing with Unknown Complex Path Gain](https://arxiv.org/abs/2604.19904v2)** | 2026-08-30 | <details><summary>Subst...</summary><p>Substantially revised version. Originally submitted to the IEEE JSAIT special issue "Theoretical Foundations for 6G-and-Beyond Wireless Networks" on Oct. 1, 2025. Following a major-revision decision, the original submission was withdrawn due to the short revision cycle; the revised manuscript has now been resubmitted</p></details> |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
-| **[How Many RF Chains Does a Microwave Linear Analog Computer (MiLAC) Need to Match the Fully-Digital Cramér-Rao Bound?](https://arxiv.org/abs/2606.23986v1)** | 2026-06-22 | <details><summary>Submi...</summary><p>Submitting to the IEEE for possible publication</p></details> |
 
 ## Speech
 | **Title** | **Date** | **Comment** |
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays](https://arxiv.org/abs/2406.16041v2)** | 2026-10-07 | <details><summary>This ...</summary><p>This work has been submitted to the Signal Processing Open for possible publication</p></details> |
 | **[Goal-Oriented Wave Computing for Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.06839v1)** | 2026-10-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables</p></details> |
 | **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
 | **[An Efficient Parametric Codec for Low-Bitrate First-Order Ambisonics](https://arxiv.org/abs/2609.33554v1)** | 2026-09-27 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Generative Large-Array Emulation for DOA Estimation in MIMO Radar via Conditional Diffusion](https://arxiv.org/abs/2609.30562v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP 2027</p></details> |
 | **[Echo Detection in Spatial Room Impulse Responses Measured with Spherical Microphone Arrays Using the Herglotz Wavefunction](https://arxiv.org/abs/2609.28068v1)** | 2026-09-23 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 4 tables</p></details> |
 | **[Circulant ADMM-Net for Fast High-resolution DoA Estimation](https://arxiv.org/abs/2502.19076v3)** | 2026-09-22 | fixed typos |
-| **[Integrated Sensing and Communication System Based on Radio Frequency Resonance Beam](https://arxiv.org/abs/2501.18878v3)** | 2026-09-20 | <details><summary>This ...</summary><p>This version has raised numerous concerns from the reviewers and requires substantial revision</p></details> |
 
