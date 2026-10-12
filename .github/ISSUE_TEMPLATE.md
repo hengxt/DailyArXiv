@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 12, 2026
+title: Latest DoA Papers - October 13, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -7,6 +7,7 @@ labels: signal-processing, doa, array-processing
 ## MUSIC Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Calibration DOA Estimation for Moving Dilated Arrays with Gain and Phase Errors](https://arxiv.org/abs/2610.12934v1)** | 2026-10-09 |  |
 | **[Generative Large-Array Emulation for DOA Estimation in MIMO Radar via Conditional Diffusion](https://arxiv.org/abs/2609.30562v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP 2027</p></details> |
 | **[Echo Detection in Spatial Room Impulse Responses Measured with Spherical Microphone Arrays Using the Herglotz Wavefunction](https://arxiv.org/abs/2609.28068v1)** | 2026-09-23 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 4 tables</p></details> |
 | **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
@@ -14,7 +15,6 @@ labels: signal-processing, doa, array-processing
 | **[Lightweight Single-Antenna Direction-of-Arrival Estimation for Curvilinear Trajectories in Mobile Embedded Systems](https://arxiv.org/abs/2608.12029v1)** | 2026-08-12 |  |
 | **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 | **[Enhanced Direction-Sensing Methods and Performance Analysis in Low-Altitude Wireless Network via a Rotating Antenna Array](https://arxiv.org/abs/2603.20784v5)** | 2026-05-29 |  |
-| **[G-iMUSIC: Greedy Iterative MUSIC Algorithms for Multi-Target DoA Estimation](https://arxiv.org/abs/2605.26875v2)** | 2026-05-27 | <details><summary>12 pa...</summary><p>12 pages; This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## SBL Array
 | **Title** | **Date** | **Comment** |
@@ -25,6 +25,7 @@ labels: signal-processing, doa, array-processing
 ## Subspace Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Calibration DOA Estimation for Moving Dilated Arrays with Gain and Phase Errors](https://arxiv.org/abs/2610.12934v1)** | 2026-10-09 |  |
 | **[Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays](https://arxiv.org/abs/2406.16041v2)** | 2026-10-07 | <details><summary>This ...</summary><p>This work has been submitted to the Signal Processing Open for possible publication</p></details> |
 | **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[AI-Aided ESPRIT for Joint DoA Estimation and Uncertainty Extraction](https://arxiv.org/abs/2609.17059v1)** | 2026-09-15 | 13 Pages, 11 Figures |
@@ -32,7 +33,6 @@ labels: signal-processing, doa, array-processing
 | **[Robust Multi-Source DoA Estimation under Weather-Induced Distortion: Structured Covariance Methods and Performance Bounds](https://arxiv.org/abs/2609.07484v1)** | 2026-09-07 |  |
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
 | **[Grassmannian-Coded Beamforming for mmWave Channel Sensing with Unknown Complex Path Gain](https://arxiv.org/abs/2604.19904v2)** | 2026-08-30 | <details><summary>Subst...</summary><p>Substantially revised version. Originally submitted to the IEEE JSAIT special issue "Theoretical Foundations for 6G-and-Beyond Wireless Networks" on Oct. 1, 2025. Following a major-revision decision, the original submission was withdrawn due to the short revision cycle; the revised manuscript has now been resubmitted</p></details> |
-| **[Low-Complexity Gridless Single-Snapshot DoA Estimation via Truncated Hankel Newton-MUSIC](https://arxiv.org/abs/2607.08108v1)** | 2026-07-09 |  |
 
 ## Speech
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HF Single-Station Localization via Multimode Ray Tracing and Time-Frequency Information Fusion](https://arxiv.org/abs/2610.13560v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 7 tables</p></details> |
+| **[CNN-Transformer with Sigmoid Label for High-Resolution Sub-Degree DOA Estimation](https://arxiv.org/abs/2610.13433v1)** | 2026-10-09 |  |
+| **[Self-Calibration DOA Estimation for Moving Dilated Arrays with Gain and Phase Errors](https://arxiv.org/abs/2610.12934v1)** | 2026-10-09 |  |
 | **[Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays](https://arxiv.org/abs/2406.16041v2)** | 2026-10-07 | <details><summary>This ...</summary><p>This work has been submitted to the Signal Processing Open for possible publication</p></details> |
 | **[Goal-Oriented Wave Computing for Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.06839v1)** | 2026-10-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables</p></details> |
 | **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
 | **[An Efficient Parametric Codec for Low-Bitrate First-Order Ambisonics](https://arxiv.org/abs/2609.33554v1)** | 2026-09-27 |  |
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
-| **[Generative Large-Array Emulation for DOA Estimation in MIMO Radar via Conditional Diffusion](https://arxiv.org/abs/2609.30562v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to ICASSP 2027</p></details> |
-| **[Echo Detection in Spatial Room Impulse Responses Measured with Spherical Microphone Arrays Using the Herglotz Wavefunction](https://arxiv.org/abs/2609.28068v1)** | 2026-09-23 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 4 tables</p></details> |
-| **[Circulant ADMM-Net for Fast High-resolution DoA Estimation](https://arxiv.org/abs/2502.19076v3)** | 2026-09-22 | fixed typos |
 
