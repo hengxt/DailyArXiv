@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 14, 2026
+title: Latest DoA Papers - October 15, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Three-Axis Rydberg Atomic Receiver Model for Polarization-Based Direction-of-Arrival Sensing](https://arxiv.org/abs/2610.18450v1)** | 2026-10-13 |  |
+| **[Theoretical Investigation of Nonclassical Directional Emission in 1D and 2D Quantum-Dot Antenna Arrays and Quantum DoA Estimation](https://arxiv.org/abs/2610.15652v1)** | 2026-10-11 |  |
+| **[Adaptive DOA Estimation With KL-Based Kernel Bandwidth Adaptation Under Impulsive Noise](https://arxiv.org/abs/2610.14623v1)** | 2026-10-10 |  |
 | **[HF Single-Station Localization via Multimode Ray Tracing and Time-Frequency Information Fusion](https://arxiv.org/abs/2610.13560v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 7 tables</p></details> |
 | **[CNN-Transformer with Sigmoid Label for High-Resolution Sub-Degree DOA Estimation](https://arxiv.org/abs/2610.13433v1)** | 2026-10-09 |  |
 | **[Self-Calibration DOA Estimation for Moving Dilated Arrays with Gain and Phase Errors](https://arxiv.org/abs/2610.12934v1)** | 2026-10-09 |  |
 | **[Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays](https://arxiv.org/abs/2406.16041v2)** | 2026-10-07 | <details><summary>This ...</summary><p>This work has been submitted to the Signal Processing Open for possible publication</p></details> |
 | **[Goal-Oriented Wave Computing for Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.06839v1)** | 2026-10-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables</p></details> |
-| **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
-| **[An Efficient Parametric Codec for Low-Bitrate First-Order Ambisonics](https://arxiv.org/abs/2609.33554v1)** | 2026-09-27 |  |
-| **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 
