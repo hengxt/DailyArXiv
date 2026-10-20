@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 20, 2026
+title: Latest DoA Papers - October 21, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Doppler-compensated Space-time Coding for MIMO PMCW Radar](https://arxiv.org/abs/2610.26842v1)** | 2026-10-19 | <details><summary>Under...</summary><p>Under review for a publication in IEEE Transactions on Signal Processing</p></details> |
 | **[Multiscale Generalized Sparse Plane Wave Decomposition in the Spherical Harmonic Domain](https://arxiv.org/abs/2610.21425v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 | **[TRP-UE Bistatic Sensing for 6G Performance Analysis and Insights](https://arxiv.org/abs/2610.20219v1)** | 2026-10-14 | 22 pages |
 | **[A Three-Axis Rydberg Atomic Receiver Model for Polarization-Based Direction-of-Arrival Sensing](https://arxiv.org/abs/2610.18450v1)** | 2026-10-13 |  |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[Adaptive DOA Estimation With KL-Based Kernel Bandwidth Adaptation Under Impulsive Noise](https://arxiv.org/abs/2610.14623v1)** | 2026-10-10 |  |
 | **[HF Single-Station Localization via Multimode Ray Tracing and Time-Frequency Information Fusion](https://arxiv.org/abs/2610.13560v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 7 tables</p></details> |
 | **[CNN-Transformer with Sigmoid Label for High-Resolution Sub-Degree DOA Estimation](https://arxiv.org/abs/2610.13433v1)** | 2026-10-09 |  |
-| **[Self-Calibration DOA Estimation for Moving Dilated Arrays with Gain and Phase Errors](https://arxiv.org/abs/2610.12934v1)** | 2026-10-09 |  |
 
