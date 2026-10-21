@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 21, 2026
+title: Latest DoA Papers - October 22, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,6 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Active Noise Control for Augmented Reality Glasses using Virtual Sensing with Directional Robustness](https://arxiv.org/abs/2610.28263v1)** | 2026-10-20 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, 1 table. Presented at the 34th European Signal Processing Conference (EUSIPCO 2026)</p></details> |
 | **[PG-SELD: Physics-Guided Sound Event Localization and Detection](https://arxiv.org/abs/2609.39216v1)** | 2026-09-30 |  |
 | **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[Mind the Microphone Gap: Benchmarking Array Upsampling Strategies for Latent Acoustic Mapping](https://arxiv.org/abs/2607.24463v1)** | 2026-07-27 | IWAENC 2026 |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 | **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
-| **[SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios](https://arxiv.org/abs/2607.02343v1)** | 2026-07-02 |  |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
