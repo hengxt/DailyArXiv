@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 22, 2026
+title: Latest DoA Papers - October 23, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -49,6 +49,7 @@ labels: signal-processing, doa, array-processing
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
 | **[Active Noise Control for Augmented Reality Glasses using Virtual Sensing with Directional Robustness](https://arxiv.org/abs/2610.28263v1)** | 2026-10-20 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, 1 table. Presented at the 34th European Signal Processing Conference (EUSIPCO 2026)</p></details> |
 | **[PG-SELD: Physics-Guided Sound Event Localization and Detection](https://arxiv.org/abs/2609.39216v1)** | 2026-09-30 |  |
 | **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
 | **[Mind the Microphone Gap: Benchmarking Array Upsampling Strategies for Latent Acoustic Mapping](https://arxiv.org/abs/2607.24463v1)** | 2026-07-27 | IWAENC 2026 |
 | **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
-| **[NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization](https://arxiv.org/abs/2606.18664v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IROS 2026</p></details> |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
+| **[Precision-Aware Hierarchical Spectrum Search for Finite-Precision MUSIC DOA Estimation](https://arxiv.org/abs/2610.29059v1)** | 2026-10-21 | 6 pages, 3 figures |
 | **[Doppler-compensated Space-time Coding for MIMO PMCW Radar](https://arxiv.org/abs/2610.26842v1)** | 2026-10-19 | <details><summary>Under...</summary><p>Under review for a publication in IEEE Transactions on Signal Processing</p></details> |
 | **[Multiscale Generalized Sparse Plane Wave Decomposition in the Spherical Harmonic Domain](https://arxiv.org/abs/2610.21425v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 | **[TRP-UE Bistatic Sensing for 6G Performance Analysis and Insights](https://arxiv.org/abs/2610.20219v1)** | 2026-10-14 | 22 pages |
 | **[A Three-Axis Rydberg Atomic Receiver Model for Polarization-Based Direction-of-Arrival Sensing](https://arxiv.org/abs/2610.18450v1)** | 2026-10-13 |  |
 | **[Theoretical Investigation of Nonclassical Directional Emission in 1D and 2D Quantum-Dot Antenna Arrays and Quantum DoA Estimation](https://arxiv.org/abs/2610.15652v1)** | 2026-10-11 |  |
 | **[Adaptive DOA Estimation With KL-Based Kernel Bandwidth Adaptation Under Impulsive Noise](https://arxiv.org/abs/2610.14623v1)** | 2026-10-10 |  |
-| **[HF Single-Station Localization via Multimode Ray Tracing and Time-Frequency Information Fusion](https://arxiv.org/abs/2610.13560v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 7 tables</p></details> |
-| **[CNN-Transformer with Sigmoid Label for High-Resolution Sub-Degree DOA Estimation](https://arxiv.org/abs/2610.13433v1)** | 2026-10-09 |  |
 
