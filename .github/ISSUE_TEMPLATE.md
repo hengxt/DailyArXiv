@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 23, 2026
+title: Latest DoA Papers - October 26, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,6 +73,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SR-ANM: A Square-Root Atomic Norm Minimization Estimator for Noise-Robust Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.31509v1)** | 2026-10-22 |  |
 | **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
 | **[Precision-Aware Hierarchical Spectrum Search for Finite-Precision MUSIC DOA Estimation](https://arxiv.org/abs/2610.29059v1)** | 2026-10-21 | 6 pages, 3 figures |
 | **[Doppler-compensated Space-time Coding for MIMO PMCW Radar](https://arxiv.org/abs/2610.26842v1)** | 2026-10-19 | <details><summary>Under...</summary><p>Under review for a publication in IEEE Transactions on Signal Processing</p></details> |
@@ -80,5 +81,4 @@ labels: signal-processing, doa, array-processing
 | **[TRP-UE Bistatic Sensing for 6G Performance Analysis and Insights](https://arxiv.org/abs/2610.20219v1)** | 2026-10-14 | 22 pages |
 | **[A Three-Axis Rydberg Atomic Receiver Model for Polarization-Based Direction-of-Arrival Sensing](https://arxiv.org/abs/2610.18450v1)** | 2026-10-13 |  |
 | **[Theoretical Investigation of Nonclassical Directional Emission in 1D and 2D Quantum-Dot Antenna Arrays and Quantum DoA Estimation](https://arxiv.org/abs/2610.15652v1)** | 2026-10-11 |  |
-| **[Adaptive DOA Estimation With KL-Based Kernel Bandwidth Adaptation Under Impulsive Noise](https://arxiv.org/abs/2610.14623v1)** | 2026-10-10 |  |
 
