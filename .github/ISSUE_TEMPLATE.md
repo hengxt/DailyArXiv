@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 27, 2026
+title: Latest DoA Papers - October 28, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Network for Wide-Area 6DoF Ambisonic Rendering](https://arxiv.org/abs/2610.35741v1)** | 2026-10-26 | <details><summary>5 pag...</summary><p>5 pages 2 figures, Accepted for publication in the Proceedings of the International Workshop on Acoustic Signal Enhancement (IWAENC 2026)</p></details> |
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 | **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
 | **[Position-Aware Target Speaker Extraction for Long-Form Multi-Party Conversations: A Diarization-Free Framework for ASR](https://arxiv.org/abs/2606.29497v1)** | 2026-06-28 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Accept by Interspeech 2026</p></details> |
@@ -44,11 +45,11 @@ labels: signal-processing, doa, array-processing
 | **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
 | **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 | **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
-| **[Direction-Preserving MIMO Speech Enhancement Using a Neural Covariance Estimator](https://arxiv.org/abs/2604.11179v1)** | 2026-04-13 |  |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Network for Wide-Area 6DoF Ambisonic Rendering](https://arxiv.org/abs/2610.35741v1)** | 2026-10-26 | <details><summary>5 pag...</summary><p>5 pages 2 figures, Accepted for publication in the Proceedings of the International Workshop on Acoustic Signal Enhancement (IWAENC 2026)</p></details> |
 | **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
 | **[Active Noise Control for Augmented Reality Glasses using Virtual Sensing with Directional Robustness](https://arxiv.org/abs/2610.28263v1)** | 2026-10-20 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, 1 table. Presented at the 34th European Signal Processing Conference (EUSIPCO 2026)</p></details> |
 | **[PG-SELD: Physics-Guided Sound Event Localization and Detection](https://arxiv.org/abs/2609.39216v1)** | 2026-09-30 |  |
@@ -56,7 +57,6 @@ labels: signal-processing, doa, array-processing
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
 | **[Mind the Microphone Gap: Benchmarking Array Upsampling Strategies for Latent Acoustic Mapping](https://arxiv.org/abs/2607.24463v1)** | 2026-07-27 | IWAENC 2026 |
-| **[Acoustic Imaging for UAV Detection: Dense Beamformed Energy Maps and U-Net SELD](https://arxiv.org/abs/2508.00307v4)** | 2026-07-17 |  |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
