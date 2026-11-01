@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - October 30, 2026
+title: Latest DoA Papers - November 02, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IsoNet: Face-Guided Speech Extraction for Compact Microphone Arrays](https://arxiv.org/abs/2605.14736v3)** | 2026-10-29 | 8 pages |
 | **[Graph Neural Network for Wide-Area 6DoF Ambisonic Rendering](https://arxiv.org/abs/2610.35741v1)** | 2026-10-26 | <details><summary>5 pag...</summary><p>5 pages 2 figures, Accepted for publication in the Proceedings of the International Workshop on Acoustic Signal Enhancement (IWAENC 2026)</p></details> |
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 | **[BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays](https://arxiv.org/abs/2608.10106v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted at APSIPA ASC 2026</p></details> |
@@ -44,7 +45,6 @@ labels: signal-processing, doa, array-processing
 | **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
 | **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
 | **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
-| **[IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments](https://arxiv.org/abs/2605.14736v2)** | 2026-05-15 | 8 pages |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conformal Prediction-Aware DOA Tracking](https://arxiv.org/abs/2610.39566v1)** | 2026-10-29 | <details><summary>Prese...</summary><p>Presented at the 2026 Israeli Conference on Systems and Electrical Engineering (ICSEE 2026)</p></details> |
+| **[Turning Multipath into Positioning Information: Persistent Electromagnetic-Twin DoA Localization](https://arxiv.org/abs/2610.39111v1)** | 2026-10-29 | 13 pages, 11 figures |
+| **[Covariance Learning for Direction-of-Arrival Estimation with Sparse Linear Arrays](https://arxiv.org/abs/2610.38123v1)** | 2026-10-28 |  |
 | **[SR-ANM: A Square-Root Atomic Norm Minimization Estimator for Noise-Robust Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.31509v1)** | 2026-10-22 |  |
 | **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
 | **[Precision-Aware Hierarchical Spectrum Search for Finite-Precision MUSIC DOA Estimation](https://arxiv.org/abs/2610.29059v1)** | 2026-10-21 | 6 pages, 3 figures |
 | **[Doppler-compensated Space-time Coding for MIMO PMCW Radar](https://arxiv.org/abs/2610.26842v1)** | 2026-10-19 | <details><summary>Under...</summary><p>Under review for a publication in IEEE Transactions on Signal Processing</p></details> |
 | **[Multiscale Generalized Sparse Plane Wave Decomposition in the Spherical Harmonic Domain](https://arxiv.org/abs/2610.21425v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
-| **[TRP-UE Bistatic Sensing for 6G Performance Analysis and Insights](https://arxiv.org/abs/2610.20219v1)** | 2026-10-14 | 22 pages |
-| **[A Three-Axis Rydberg Atomic Receiver Model for Polarization-Based Direction-of-Arrival Sensing](https://arxiv.org/abs/2610.18450v1)** | 2026-10-13 |  |
-| **[Theoretical Investigation of Nonclassical Directional Emission in 1D and 2D Quantum-Dot Antenna Arrays and Quantum DoA Estimation](https://arxiv.org/abs/2610.15652v1)** | 2026-10-11 |  |
 
