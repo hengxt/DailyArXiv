@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - November 02, 2026
+title: Latest DoA Papers - November 03, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -73,9 +73,9 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Covariance Learning for Direction-of-Arrival Estimation with Sparse Linear Arrays](https://arxiv.org/abs/2610.38123v2)** | 2026-10-30 |  |
 | **[Conformal Prediction-Aware DOA Tracking](https://arxiv.org/abs/2610.39566v1)** | 2026-10-29 | <details><summary>Prese...</summary><p>Presented at the 2026 Israeli Conference on Systems and Electrical Engineering (ICSEE 2026)</p></details> |
 | **[Turning Multipath into Positioning Information: Persistent Electromagnetic-Twin DoA Localization](https://arxiv.org/abs/2610.39111v1)** | 2026-10-29 | 13 pages, 11 figures |
-| **[Covariance Learning for Direction-of-Arrival Estimation with Sparse Linear Arrays](https://arxiv.org/abs/2610.38123v1)** | 2026-10-28 |  |
 | **[SR-ANM: A Square-Root Atomic Norm Minimization Estimator for Noise-Robust Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.31509v1)** | 2026-10-22 |  |
 | **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
 | **[Precision-Aware Hierarchical Spectrum Search for Finite-Precision MUSIC DOA Estimation](https://arxiv.org/abs/2610.29059v1)** | 2026-10-21 | 6 pages, 3 figures |
