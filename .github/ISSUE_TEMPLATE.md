@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - November 03, 2026
+title: Latest DoA Papers - November 04, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -37,6 +37,7 @@ labels: signal-processing, doa, array-processing
 ## Speech
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPATEX: Array-Flexible Multichannel-to-Multichannel Target Speech Extraction using Direction Clue](https://arxiv.org/abs/2611.03119v1)** | 2026-11-02 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[IsoNet: Face-Guided Speech Extraction for Compact Microphone Arrays](https://arxiv.org/abs/2605.14736v3)** | 2026-10-29 | 8 pages |
 | **[Graph Neural Network for Wide-Area 6DoF Ambisonic Rendering](https://arxiv.org/abs/2610.35741v1)** | 2026-10-26 | <details><summary>5 pag...</summary><p>5 pages 2 figures, Accepted for publication in the Proceedings of the International Workshop on Acoustic Signal Enhancement (IWAENC 2026)</p></details> |
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
@@ -44,19 +45,18 @@ labels: signal-processing, doa, array-processing
 | **[Position-Aware Target Speaker Extraction for Long-Form Multi-Party Conversations: A Diarization-Free Framework for ASR](https://arxiv.org/abs/2606.29497v1)** | 2026-06-28 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Accept by Interspeech 2026</p></details> |
 | **[Direction of arrival estimation from distant microphone data using single frequency filtering](https://arxiv.org/abs/2606.17263v1)** | 2026-06-15 |  |
 | **[Single frequency filtering based multi-speaker direction of arrival estimation from stereo recordings](https://arxiv.org/abs/2606.17258v1)** | 2026-06-15 |  |
-| **[DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs](https://arxiv.org/abs/2605.31432v1)** | 2026-05-29 |  |
 
 ## Acoustic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatially-Guided Speaker Extraction Based on Relative Position Cues](https://arxiv.org/abs/2611.01757v1)** | 2026-11-01 |  |
+| **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v2)** | 2026-10-31 |  |
 | **[Graph Neural Network for Wide-Area 6DoF Ambisonic Rendering](https://arxiv.org/abs/2610.35741v1)** | 2026-10-26 | <details><summary>5 pag...</summary><p>5 pages 2 figures, Accepted for publication in the Proceedings of the International Workshop on Acoustic Signal Enhancement (IWAENC 2026)</p></details> |
-| **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
 | **[Active Noise Control for Augmented Reality Glasses using Virtual Sensing with Directional Robustness](https://arxiv.org/abs/2610.28263v1)** | 2026-10-20 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, 1 table. Presented at the 34th European Signal Processing Conference (EUSIPCO 2026)</p></details> |
 | **[PG-SELD: Physics-Guided Sound Event Localization and Detection](https://arxiv.org/abs/2609.39216v1)** | 2026-09-30 |  |
 | **[GAMF: Learned and Analytical Array Transfer Function Matching for Array-Generic Direction-of-Arrival Estimation](https://arxiv.org/abs/2609.34216v1)** | 2026-09-28 |  |
 | **[Identity-Assisted Association of Unordered DOA Estimates for Neural Speech Source Tracking](https://arxiv.org/abs/2609.33373v1)** | 2026-09-27 | accepted by IEEE SLT |
 | **[Leveraging Bayesian Optimization for Array Shape Self-Calibration in Underwater DoA Estimation](https://arxiv.org/abs/2608.30488v1)** | 2026-08-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, submitted to an IEEE journal</p></details> |
-| **[Mind the Microphone Gap: Benchmarking Array Upsampling Strategies for Latent Acoustic Mapping](https://arxiv.org/abs/2607.24463v1)** | 2026-07-27 | IWAENC 2026 |
 
 ## Broadband
 | **Title** | **Date** | **Comment** |
@@ -73,12 +73,12 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPATEX: Array-Flexible Multichannel-to-Multichannel Target Speech Extraction using Direction Clue](https://arxiv.org/abs/2611.03119v1)** | 2026-11-02 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
+| **[Asymptotic Frequency-Domain FIM for multidimensional stationary and cyclostationary compound-Gaussian processes: Application to DOA estimation](https://arxiv.org/abs/2611.02848v1)** | 2026-11-02 |  |
+| **[Energy-Efficient Velocity Profile Optimization for Movable Antenna-Enabled Sensing Systems](https://arxiv.org/abs/2603.27540v2)** | 2026-11-02 |  |
+| **[Spatially-Guided Speaker Extraction Based on Relative Position Cues](https://arxiv.org/abs/2611.01757v1)** | 2026-11-01 |  |
+| **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v2)** | 2026-10-31 |  |
 | **[Covariance Learning for Direction-of-Arrival Estimation with Sparse Linear Arrays](https://arxiv.org/abs/2610.38123v2)** | 2026-10-30 |  |
 | **[Conformal Prediction-Aware DOA Tracking](https://arxiv.org/abs/2610.39566v1)** | 2026-10-29 | <details><summary>Prese...</summary><p>Presented at the 2026 Israeli Conference on Systems and Electrical Engineering (ICSEE 2026)</p></details> |
 | **[Turning Multipath into Positioning Information: Persistent Electromagnetic-Twin DoA Localization](https://arxiv.org/abs/2610.39111v1)** | 2026-10-29 | 13 pages, 11 figures |
-| **[SR-ANM: A Square-Root Atomic Norm Minimization Estimator for Noise-Robust Direction-of-Arrival Estimation](https://arxiv.org/abs/2610.31509v1)** | 2026-10-22 |  |
-| **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v1)** | 2026-10-21 | <details><summary>submi...</summary><p>submitted to ICASSP2027</p></details> |
-| **[Precision-Aware Hierarchical Spectrum Search for Finite-Precision MUSIC DOA Estimation](https://arxiv.org/abs/2610.29059v1)** | 2026-10-21 | 6 pages, 3 figures |
-| **[Doppler-compensated Space-time Coding for MIMO PMCW Radar](https://arxiv.org/abs/2610.26842v1)** | 2026-10-19 | <details><summary>Under...</summary><p>Under review for a publication in IEEE Transactions on Signal Processing</p></details> |
-| **[Multiscale Generalized Sparse Plane Wave Decomposition in the Spherical Harmonic Domain](https://arxiv.org/abs/2610.21425v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Audio, Speech and Language Processing</p></details> |
 
