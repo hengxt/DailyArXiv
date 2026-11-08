@@ -1,5 +1,5 @@
 ---
-title: Latest DoA Papers - November 06, 2026
+title: Latest DoA Papers - November 09, 2026
 labels: signal-processing, doa, array-processing
 ---
 **Latest papers on DoA estimation**
@@ -19,6 +19,7 @@ labels: signal-processing, doa, array-processing
 ## SBL Array
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Bayesian Sensing for Antenna Arrays with Per-Element Gain, Phase, and Position Errors](https://arxiv.org/abs/2611.07823v1)** | 2026-11-05 |  |
 | **[Spatially Filtered Sparse Bayesian Learning for Direction-of-Arrival Estimation with Leaky-Wave Antennas](https://arxiv.org/abs/2510.10796v1)** | 2025-10-12 | <details><summary>Prepr...</summary><p>Preprint submitted to ICASSP 2026. 4 pages, 3 figures</p></details> |
 | **[Sparse Bayesian Learning for DOA Estimation in Heteroscedastic Noise](https://arxiv.org/abs/1711.03847v1)** | 2017-11-08 | <details><summary>Submi...</summary><p>Submitted to IEEE TSP</p></details> |
 
@@ -73,6 +74,7 @@ labels: signal-processing, doa, array-processing
 ## DOA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Bayesian Sensing for Antenna Arrays with Per-Element Gain, Phase, and Position Errors](https://arxiv.org/abs/2611.07823v1)** | 2026-11-05 |  |
 | **[SPATEX: Array-Flexible Multichannel-to-Multichannel Target Speech Extraction using Direction Clue](https://arxiv.org/abs/2611.03119v1)** | 2026-11-02 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Asymptotic Frequency-Domain FIM for multidimensional stationary and cyclostationary compound-Gaussian processes: Application to DOA estimation](https://arxiv.org/abs/2611.02848v1)** | 2026-11-02 |  |
 | **[Energy-Efficient Velocity Profile Optimization for Movable Antenna-Enabled Sensing Systems](https://arxiv.org/abs/2603.27540v2)** | 2026-11-02 |  |
@@ -80,5 +82,4 @@ labels: signal-processing, doa, array-processing
 | **[Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles](https://arxiv.org/abs/2610.29778v2)** | 2026-10-31 |  |
 | **[Covariance Learning for Direction-of-Arrival Estimation with Sparse Linear Arrays](https://arxiv.org/abs/2610.38123v2)** | 2026-10-30 |  |
 | **[Conformal Prediction-Aware DOA Tracking](https://arxiv.org/abs/2610.39566v1)** | 2026-10-29 | <details><summary>Prese...</summary><p>Presented at the 2026 Israeli Conference on Systems and Electrical Engineering (ICSEE 2026)</p></details> |
-| **[Turning Multipath into Positioning Information: Persistent Electromagnetic-Twin DoA Localization](https://arxiv.org/abs/2610.39111v1)** | 2026-10-29 | 13 pages, 11 figures |
 
